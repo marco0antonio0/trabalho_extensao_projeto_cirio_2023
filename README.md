@@ -1,6 +1,6 @@
 # Projeto Cirio 2023 - Aplicativo de Cadastro de Participantes
 
-![Cirio 2023](images_readme\imagem_cirio_2023.png)
+![Cirio 2023](/images_readme/imagem_cirio_2023.png)
 
 ## Sobre o Projeto
 
