@@ -1,21 +1,8 @@
+import 'package:app_cirio/paginas/pagina_home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Pagina_principal(),
+    home: PaginoHome(),
   ));
-}
-
-class Pagina_principal extends StatelessWidget {
-  const Pagina_principal({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-        body: SafeArea(
-      child: Column(
-        children: [],
-      ),
-    ));
-  }
 }
