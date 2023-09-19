@@ -1,10 +1,12 @@
-import 'package:app_cirio/paginas/splashScreen.dart';
+import 'package:app_cirio/paginas/pagina_home.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 void main() {
   //==========================================
-  //Colocar um 'const' antes da função: MaterialApp()
+  SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
+  //==========================================
   runApp(const MaterialApp(
-    home: SplashScreen(),
+    home: PaginoHome(),
   ));
 }

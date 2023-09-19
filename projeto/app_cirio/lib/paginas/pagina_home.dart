@@ -6,13 +6,18 @@ import 'package:app_cirio/controller/router_settings.dart';
 import 'package:app_cirio/paginas/pagina_mensagem_sis_confirm.dart';
 import 'package:flutter/material.dart';
 
-class PaginoHome extends StatelessWidget {
+class PaginoHome extends StatefulWidget {
   const PaginoHome({super.key});
 
   @override
+  State<PaginoHome> createState() => _PaginoHomeState();
+}
+
+class _PaginoHomeState extends State<PaginoHome> {
+  @override
   Widget build(BuildContext context) {
     double alturaTela = MediaQuery.of(context).size.height;
-    print(alturaTela);
+
     return SafeArea(
       child: WillPopScope(
         onWillPop: () async {

@@ -2,6 +2,13 @@
 
 ![Cirio 2023](/images_readme/imagem_cirio_2023.png)
 
+## Acesso rapido
+
+- [Acesso a modelagem de dados](/modelagem_banco_dados/README.md)
+- [Acesso ao projeto app flutter](/projeto/app_cirio/)
+- [Acesso ao planejamento](/planejamento_dev/README.md)
+- [Acesso a modelagem caso de uso](/planejamento_dev/modelagem_caso_de_uso/README.md)
+
 ## Sobre o Projeto
 
 O **Projeto Cirio 2023** é uma emocionante iniciativa acadêmica de extensão realizada pelo Grupo UNAMA, que visa facilitar o processo de cadastramento de participantes para o tradicional evento do Cirio. Para tornar essa experiência mais acessível e eficiente, desenvolvemos um aplicativo Android utilizando o framework Flutter, com a linguagem Dart, e um banco de dados SQLite para operações offline.

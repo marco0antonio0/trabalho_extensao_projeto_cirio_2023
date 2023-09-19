@@ -18,7 +18,7 @@ class _SplashScreenState extends State<SplashScreen> {
     super.initState();
     // Simulando uma tarefa de inicialização, como carregamento de dados.
     // Aqui, estamos apenas aguardando por 3 segundos.
-    Timer(const Duration(seconds: 4), () {
+    Timer(const Duration(seconds: 10), () {
       // Após a tarefa de inicialização, navegue para a tela principal.
       config_rota()
           .animacao_2(context, mode: false, novaPagina: const PaginoHome());
