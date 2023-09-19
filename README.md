@@ -17,6 +17,8 @@ O **Projeto Cirio 2023** é uma emocionante iniciativa acadêmica de extensão r
 
 O aplicativo oferece as seguintes funcionalidades principais:
 
+![img](/images_readme/image_2.png)
+
 ### Cadastro de Participantes Offline
 
 Os participantes podem se cadastrar mesmo sem conexão com a internet, armazenando os dados diretamente no dispositivo Android.
