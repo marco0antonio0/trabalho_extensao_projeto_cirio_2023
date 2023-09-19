@@ -40,3 +40,18 @@ A tela inicial do aplicativo apresenta um menu de opções simplificado, proporc
 Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar a experiência do Cirio ainda mais especial para todos os participantes. Vamos fazer parte dessa história!
 
 **Divirta-se cadastrando e compartilhando momentos inesquecíveis no Cirio 2023!**
+
+## Colaboradores
+
+- [@Marco Antonio](https://github.com/marco0antonio0)
+- [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
+- [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
+- [@Melize Tamires Porto Rocha](https://github.com/melizerocha)
+- [@Felipe sarmanho neri](https://github.com/FelipeMourah)
+- Mateus da Cunha Nunes
+- Matheus Barbosa de Andrade
+- Rellan Monteiro de Freitas Junior
+- Igor Alexsandro Barbosa da Costa
+- Tales Freire Rodrigues da Costa
+- Felipe Santos de Moura
+- Henri Deluca Macêdo Ribeiro
