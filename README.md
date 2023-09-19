@@ -43,7 +43,6 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 
 ## Colaboradores
 
--  testando projeto
 - [@Marco Antonio](https://github.com/marco0antonio0)
 - [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
 - [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
