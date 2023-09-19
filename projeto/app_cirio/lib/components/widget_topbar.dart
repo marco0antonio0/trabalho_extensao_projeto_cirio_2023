@@ -1,8 +1,9 @@
-import 'package:app_cirio/paginas/pagina_home.dart';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class Widgettopbar extends StatelessWidget {
-  const Widgettopbar({super.key});
+  bool home;
+  Widgettopbar({super.key, this.home = false});
 
   @override
   Widget build(BuildContext context) {
@@ -32,10 +33,10 @@ class Widgettopbar extends StatelessWidget {
                 //========================================
                 // função de clique do btn
                 child: InkWell(
-                  onTap: () {
-                    Navigator.of(context).push(
-                        MaterialPageRoute(builder: (context) => PaginoHome()));
-                  },
+                  onTap: !home
+                      ? () => Navigator.of(context)
+                          .popUntil((route) => route.isFirst)
+                      : null,
                   child: const Image(
                       fit: BoxFit.fitHeight,
                       image: AssetImage('assets/icons/icon_home.png')),

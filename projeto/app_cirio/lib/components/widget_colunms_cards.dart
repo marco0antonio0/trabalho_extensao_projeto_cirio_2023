@@ -1,6 +1,7 @@
+import 'package:app_cirio/controller/router_settings.dart';
+import 'package:app_cirio/model/database.dart';
 import 'package:app_cirio/paginas/pagina_updateCad.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 
 class ColunaDeCadastrados extends StatefulWidget {
   const ColunaDeCadastrados({super.key});
@@ -10,60 +11,75 @@ class ColunaDeCadastrados extends StatefulWidget {
 }
 
 class _ColunaDeCadastradosState extends State<ColunaDeCadastrados> {
+  final dbHelper = DatabaseHelper();
+  Future<List> fetchData() async {
+    // Simule carregar 100 elementos
+    await Future.delayed(const Duration(seconds: 5));
+    List data = [
+      {'id': 1, 'nome': 'josue'},
+      {'id': 1, 'nome': 'josue1'},
+      {'id': 1, 'nome': 'josue2'},
+      {'id': 1, 'nome': 'josue3'},
+      {'id': 1, 'nome': 'josue4'},
+      {'id': 1, 'nome': 'josue5'},
+      {'id': 1, 'nome': 'josue6'},
+      {'id': 1, 'nome': 'josue7'},
+      {'id': 1, 'nome': 'josue8'},
+    ];
+    return data;
+  }
+
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Column(
-        children: [
-          CardsPerfil(
-            ontap: () => {
-              Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => PaginaUpdateCadastro()))
-            },
-          ),
-          CardsPerfil(
-            ontap: () => {
-              Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => PaginaUpdateCadastro()))
-            },
-          ),
-          CardsPerfil(
-            ontap: () => {
-              Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => PaginaUpdateCadastro()))
-            },
-          ),
-          CardsPerfil(
-            ontap: () => {
-              Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => PaginaUpdateCadastro()))
-            },
-          ),
-          CardsPerfil(
-            ontap: () => {
-              Navigator.of(context).push(MaterialPageRoute(
-                  builder: (context) => PaginaUpdateCadastro()))
-            },
-          ),
-        ],
-      ),
-    );
+    return FutureBuilder(
+        future: dbHelper.query('SELECT * FROM romeros'),
+        builder: ((context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return Container(
+                margin: EdgeInsets.only(top: 30),
+                child: const CircularProgressIndicator());
+          } else {
+            final data = snapshot.data;
+            return ListView.builder(
+                shrinkWrap: true,
+                physics: const NeverScrollableScrollPhysics(),
+                itemCount: data!.length,
+                itemBuilder: (context, int index) {
+                  return CardsPerfil(
+                    id: data[index]['id'],
+                    nome: data[index]['nome'],
+                    ontap: () => {
+                      config_rota().animacao_2(context,
+                          novaPagina: PaginaUpdateCadastro(
+                            data: data[index],
+                          ))
+                    },
+                  );
+                });
+          }
+        }));
   }
 }
 
 // ignore: must_be_immutable
 class CardsPerfil extends StatefulWidget {
+  int id;
+  String nome;
   dynamic ontap = () => {};
-  CardsPerfil({super.key, this.ontap});
+  CardsPerfil({super.key, this.ontap, this.nome = '', this.id = 0});
 
   @override
   // ignore: no_logic_in_create_state
-  State<CardsPerfil> createState() => _CardsPerfilState(ontap: ontap);
+  State<CardsPerfil> createState() =>
+      // ignore: no_logic_in_create_state
+      _CardsPerfilState(ontap: ontap, nome: nome, id: id);
 }
 
 class _CardsPerfilState extends State<CardsPerfil> {
+  int id;
+  String nome;
   dynamic ontap = () => {};
-  _CardsPerfilState({this.ontap});
+  _CardsPerfilState({this.ontap, this.nome = '', this.id = 0});
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -106,15 +122,15 @@ class _CardsPerfilState extends State<CardsPerfil> {
                     Container(
                         alignment: Alignment.centerLeft,
                         margin: const EdgeInsets.only(top: 20),
-                        child: const Text(
-                          'id: Lorem',
+                        child: Text(
+                          'id: ${id}',
                           style: TextStyle(
                               fontSize: 17, fontFamily: 'Inter-Medium'),
                         )),
                     Container(
                         alignment: Alignment.centerLeft,
-                        child: const Text(
-                          'Lorem ipsum dolor',
+                        child: Text(
+                          'nome: ${nome}',
                           style: TextStyle(
                               fontSize: 17, fontFamily: 'Inter-Medium'),
                         )),

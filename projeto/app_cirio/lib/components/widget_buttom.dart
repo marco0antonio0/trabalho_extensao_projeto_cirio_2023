@@ -17,6 +17,8 @@ class Widgetbuttom extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //===========================================================
+    // componente buttom referece xxxxxx
     return InkWell(
       onTap: onTap,
       child: Container(
@@ -37,9 +39,12 @@ class Widgetbuttom extends StatelessWidget {
             )
           ],
         ),
+        //========================================
+        //  text titulo do botão variavel agregada
         child: Text(titulo,
             style: const TextStyle(
                 fontSize: 18, fontFamily: 'Kanit', color: Colors.white)),
+        //========================================
       ),
     );
   }

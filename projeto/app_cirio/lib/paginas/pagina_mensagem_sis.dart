@@ -3,6 +3,8 @@ import 'package:app_cirio/components/widget_buttom.dart';
 import 'package:app_cirio/components/widget_msg.dart';
 import 'package:app_cirio/components/widget_titulo.dart';
 import 'package:app_cirio/components/widget_topbar.dart';
+import 'package:app_cirio/controller/router_settings.dart';
+import 'package:app_cirio/paginas/pagina_home.dart';
 import 'package:flutter/material.dart';
 
 class PaginoMensagemSistema extends StatelessWidget {
@@ -40,6 +42,8 @@ class PaginoMensagemSistema extends StatelessWidget {
                           titulo: 'Ir ara o menu',
                           marginTop: 0,
                           onTap: () => {
+                            config_rota().animacao_2(context,
+                                mode: false, novaPagina: const PaginoHome())
                             // Navigator.of(context).push(MaterialPageRoute(
                             //     builder: (context) => PaginoEditarpefil()))
                           },

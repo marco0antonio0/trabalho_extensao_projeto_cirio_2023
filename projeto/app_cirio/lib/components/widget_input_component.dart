@@ -1,10 +1,28 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 // ignore: must_be_immutable
-class WidgetInputComponent extends StatelessWidget {
+class WidgetInputComponent extends StatefulWidget {
+  bool modeFormater;
+  TextEditingController campo = TextEditingController();
+  TextInputType? mode;
   String titulo;
-  WidgetInputComponent({super.key, this.titulo = ''});
+  WidgetInputComponent(
+      {super.key,
+      this.titulo = '',
+      this.modeFormater = false,
+      this.mode = TextInputType.text,
+      required this.campo});
 
+  @override
+  State<WidgetInputComponent> createState() =>
+      _WidgetInputComponentState(campo: campo, modeFormater: modeFormater);
+}
+
+class _WidgetInputComponentState extends State<WidgetInputComponent> {
+  bool modeFormater = false;
+  TextEditingController campo;
+  _WidgetInputComponentState({required this.campo, required this.modeFormater});
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -40,11 +58,19 @@ class WidgetInputComponent extends StatelessWidget {
                       margin: const EdgeInsets.only(bottom: 5),
                       alignment: Alignment.bottomLeft,
                       child: Text(
-                        titulo,
+                        widget.titulo,
                         style: const TextStyle(fontFamily: 'Kanit'),
                       )),
                   // component TextFiedld
                   TextField(
+                      inputFormatters: modeFormater
+                          ? <TextInputFormatter>[
+                              FilteringTextInputFormatter.allow(
+                                  RegExp(r'[0-9]')),
+                            ]
+                          : [],
+                      controller: campo,
+                      keyboardType: widget.mode,
                       decoration: InputDecoration(
                           hintText: 'Digite',
                           fillColor: const Color.fromRGBO(255, 255, 255, 0.442),

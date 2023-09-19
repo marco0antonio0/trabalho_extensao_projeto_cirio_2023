@@ -3,11 +3,12 @@ import 'package:app_cirio/components/widget_buttom.dart';
 import 'package:app_cirio/components/widget_msg.dart';
 import 'package:app_cirio/components/widget_titulo.dart';
 import 'package:app_cirio/components/widget_topbar.dart';
-import 'package:app_cirio/paginas/pagina_home.dart';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class PaginoMensagemSistemaUpdate extends StatelessWidget {
-  const PaginoMensagemSistemaUpdate({super.key});
+  bool erro;
+  PaginoMensagemSistemaUpdate({super.key, this.erro = false});
 
   @override
   Widget build(BuildContext context) {
@@ -27,17 +28,15 @@ class PaginoMensagemSistemaUpdate extends StatelessWidget {
                         // =============================================
                         WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
                         WidgetMensagemSis(
-                          MensagemSis:
-                              'Atualizado com SUCESSO! \n O que deseja fazer?',
+                          MensagemSis: !erro
+                              ? 'Atualizado com SUCESSO \n O que deseja fazer?'
+                              : 'Erro ao atualizar \n O que deseja fazer?',
                         ),
 
                         Widgetbuttom(
                           titulo: 'Ir ara o menu',
-                          onTap: () => {
-                            Navigator.of(context).pushReplacement(
-                                MaterialPageRoute(
-                                    builder: (context) => PaginoHome()))
-                          },
+                          onTap: () => Navigator.of(context)
+                              .popUntil((route) => route.isFirst),
                         ),
                         // =============================================
                       ])))),

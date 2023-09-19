@@ -1,3 +1,4 @@
+import 'package:app_cirio/model/stream.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable
@@ -11,7 +12,7 @@ class WidgetRadioComponentSexo extends StatefulWidget {
 }
 
 class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
-  String? gender;
+  StreamDados streamDados = StreamDados();
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -57,11 +58,10 @@ class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
                                 title: const Text("Feminino",
                                     style: TextStyle(fontSize: 15)),
                                 value: "Feminino",
-                                groupValue: gender,
+                                groupValue: streamDados.opSexo,
                                 onChanged: (value) {
-                                  setState(() {
-                                    gender = value.toString();
-                                  });
+                                  streamDados.atualizarOpSexo(value.toString());
+                                  setState(() {});
                                 },
                               )),
                           //===================================================
@@ -72,11 +72,10 @@ class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
                                 title: const Text("Masculino",
                                     style: TextStyle(fontSize: 15)),
                                 value: "Masculino",
-                                groupValue: gender,
+                                groupValue: streamDados.opSexo,
                                 onChanged: (value) {
-                                  setState(() {
-                                    gender = value.toString();
-                                  });
+                                  streamDados.atualizarOpSexo(value.toString());
+                                  setState(() {});
                                 },
                               )),
                           //=======================================================
@@ -89,11 +88,10 @@ class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
                                   style: TextStyle(fontSize: 15),
                                 ),
                                 value: "Outros",
-                                groupValue: gender,
+                                groupValue: streamDados.opSexo,
                                 onChanged: (value) {
-                                  setState(() {
-                                    gender = value.toString();
-                                  });
+                                  streamDados.atualizarOpSexo(value.toString());
+                                  setState(() {});
                                 },
                               )),
                           //=======================================================
@@ -121,7 +119,8 @@ class WidgetRadioComponentMedicamento extends StatefulWidget {
 
 class _WidgetRadioComponentMedicamentoState
     extends State<WidgetRadioComponentMedicamento> {
-  String? med;
+  StreamDados streamDados = StreamDados();
+
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -167,11 +166,11 @@ class _WidgetRadioComponentMedicamentoState
                                 title: const Text("Medicamento 1",
                                     style: TextStyle(fontSize: 15)),
                                 value: "Medicamento 1",
-                                groupValue: med,
+                                groupValue: streamDados.medicamento,
                                 onChanged: (value) {
-                                  setState(() {
-                                    med = value.toString();
-                                  });
+                                  streamDados.atualizarListaMedicamento(
+                                      value.toString());
+                                  setState(() {});
                                 },
                               )),
 
@@ -183,11 +182,11 @@ class _WidgetRadioComponentMedicamentoState
                                 title: const Text("Medicamento 2",
                                     style: TextStyle(fontSize: 15)),
                                 value: "Medicamento 2",
-                                groupValue: med,
+                                groupValue: streamDados.medicamento,
                                 onChanged: (value) {
-                                  setState(() {
-                                    med = value.toString();
-                                  });
+                                  streamDados.atualizarListaMedicamento(
+                                      value.toString());
+                                  setState(() {});
                                 },
                               )),
 
@@ -199,11 +198,11 @@ class _WidgetRadioComponentMedicamentoState
                                 title: const Text("Medicamento 3",
                                     style: TextStyle(fontSize: 15)),
                                 value: "Medicamento 3",
-                                groupValue: med,
+                                groupValue: streamDados.medicamento,
                                 onChanged: (value) {
-                                  setState(() {
-                                    med = value.toString();
-                                  });
+                                  streamDados.atualizarListaMedicamento(
+                                      value.toString());
+                                  setState(() {});
                                 },
                               )),
 

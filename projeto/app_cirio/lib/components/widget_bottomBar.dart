@@ -5,6 +5,8 @@ class Widgetbottom extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //====================================================
+    //  component xx  xxx
     return Container(
       width: MediaQuery.of(context).size.width * 1,
       child: Image(

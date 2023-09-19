@@ -2,10 +2,13 @@ import 'package:app_cirio/components/widget_bottomBar.dart';
 import 'package:app_cirio/components/widget_buttom.dart';
 import 'package:app_cirio/components/widget_titulo.dart';
 import 'package:app_cirio/components/widget_topbar.dart';
+import 'package:app_cirio/controller/router_settings.dart';
 import 'package:app_cirio/paginas/pagina_editar_perfil.dart';
 import 'package:app_cirio/paginas/pagina_mensagem_sis_export.dart';
 import 'package:flutter/material.dart';
 
+//====================================
+//Stateless para página de configuração
 class PaginoConfig extends StatelessWidget {
   const PaginoConfig({super.key});
 
@@ -25,23 +28,25 @@ class PaginoConfig extends StatelessWidget {
                           // ignore: prefer_const_constructors
                           child: Column(children: [
                         // =============================================
+                        // Componente Titulo 'CONFIGURAÇÃO'
                         WidgetTitulo(titulo: 'CONFIGURAÇÃO'),
-
+                        //===================================
+                        //Botão: 'Editar perfil';
                         Widgetbuttom(
                           titulo: 'Editar perfil',
                           onTap: () => {
-                            Navigator.of(context).push(MaterialPageRoute(
-                                builder: (context) => PaginoEditarpefil()))
+                            config_rota().animacao_2(context,
+                                novaPagina: const PaginoEditarpefil())
                           },
-                          //
+                          //===========================================
+                          // Botão: 'Exportar banco';
                         ),
                         Widgetbuttom(
                           titulo: 'Exporta banco',
                           marginTop: 0,
                           onTap: () => {
-                            Navigator.of(context).push(MaterialPageRoute(
-                                builder: (context) =>
-                                    PaginoMensagemSistemaExport()))
+                            config_rota().animacao_2(context,
+                                novaPagina: const PaginoMensagemSistemaExport())
                           },
                         ),
                         // =============================================

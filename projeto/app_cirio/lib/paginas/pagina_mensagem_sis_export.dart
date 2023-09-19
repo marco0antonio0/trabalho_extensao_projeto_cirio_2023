@@ -24,11 +24,16 @@ class PaginoMensagemSistemaExport extends StatelessWidget {
                           // ignore: prefer_const_constructors
                           child: Column(children: [
                         // =============================================
+                        // Componente titulo >>>> ' MENSAGEM SISTEMA '
                         WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
+                        //=============================================
+                        // Mensagem: 'Parabéns, o banco de dados esta pronto para ser enviado /nO que deseja fazer?
                         WidgetMensagemSis(
                           MensagemSis:
                               'Parabéns, o banco de dados esta pronto para ser enviado \nO que deseja fazer?',
                         ),
+                        //=============================================
+                        //        Botão de envio via whatsapp
                         Widgetbuttom(
                           titulo: 'Enviar via whatsapp',
                           onTap: () => {
@@ -36,6 +41,8 @@ class PaginoMensagemSistemaExport extends StatelessWidget {
                             //     builder: (context) => PaginoEditarpefil()))
                           },
                         ),
+                        //====================================================
+                        // Botão: 'Voltar'
                         Widgetbuttom(
                           titulo: 'Voltar',
                           marginTop: 0,

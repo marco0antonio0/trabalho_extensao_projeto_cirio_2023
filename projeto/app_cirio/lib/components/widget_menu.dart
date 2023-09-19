@@ -1,3 +1,4 @@
+import 'package:app_cirio/controller/router_settings.dart';
 import 'package:app_cirio/paginas/pagina_cadastro.dart';
 import 'package:app_cirio/paginas/pagina_config.dart';
 import 'package:app_cirio/paginas/pagina_consulta.dart';
@@ -9,7 +10,7 @@ class Widgetmenu extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       width: MediaQuery.of(context).size.width * 0.8,
       height: 250,
       // color: Colors.green,
@@ -24,8 +25,8 @@ class Widgetmenu extends StatelessWidget {
                   mode: true,
                   titulo: 'Cadastrar',
                   ontap: () => {
-                    Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => PaginaCadastro()))
+                    config_rota()
+                        .animacao_2(context, novaPagina: PaginaCadastro())
                   },
                 ),
                 //============================
@@ -33,8 +34,8 @@ class Widgetmenu extends StatelessWidget {
                 BtnsMenu(
                   titulo: 'Consulta',
                   ontap: () => {
-                    Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => PaginaConsulta()))
+                    config_rota()
+                        .animacao_2(context, novaPagina: PaginaConsulta())
                   },
                 )
                 //============================
@@ -48,8 +49,8 @@ class Widgetmenu extends StatelessWidget {
                   mode: true,
                   titulo: 'Config',
                   ontap: () => {
-                    Navigator.of(context).push(
-                        MaterialPageRoute(builder: (context) => PaginoConfig()))
+                    config_rota()
+                        .animacao_2(context, novaPagina: PaginoConfig())
                   },
                 ),
                 //============================
@@ -57,8 +58,8 @@ class Widgetmenu extends StatelessWidget {
                 BtnsMenu(
                   titulo: 'Suporte',
                   ontap: () => {
-                    Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => PaginoMensagemSistemaSuporte()))
+                    config_rota().animacao_2(context,
+                        novaPagina: PaginoMensagemSistemaSuporte())
                   },
                 )
                 //============================
