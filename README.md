@@ -42,18 +42,15 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 **Divirta-se cadastrando e compartilhando momentos inesquecíveis no Cirio 2023!**
 
 ## Colaboradores
-- xabogas
-- aaaa
-- aaaaaadddd
 - [@Marco Antonio](https://github.com/marco0antonio0)
 - [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
 - [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
 - [@Melize Tamires Porto Rocha](https://github.com/melizerocha)
-- [@Felipe sarmanho neri](https://github.com/FelipeMourah)
-- [Matheus Barbosa de Andrade](https://github.com/midd1z)
+- [@Felipe Santos de Moura](https://github.com/FelipeMourah)
+- [Matheus Barbosa de Andrade](https://github.com/MatheusBarbosaDeAndrade)
 - Mateus da Cunha Nunes
 - Rellan Monteiro de Freitas Junior
 - Igor Alexsandro Barbosa da Costa
 - Tales Freire Rodrigues da Costa
-- Felipe Santos de Moura
+- Felipe Sarmanho Neri
 - Henri Deluca Macêdo Ribeiro
