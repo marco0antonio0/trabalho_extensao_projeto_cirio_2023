@@ -3,6 +3,7 @@ import 'package:app_cirio/model/database.dart';
 import 'package:app_cirio/paginas/pagina_updateCad.dart';
 import 'package:flutter/material.dart';
 
+
 class ColunaDeCadastrados extends StatefulWidget {
   const ColunaDeCadastrados({super.key});
 
