@@ -1,7 +1,16 @@
+//=====================================================
+//"import 'package:flutter/services.dart'" aparentemente é reduntante, se possível, deixar apenas "import 'package:flutter/material.dart'";
+//=====================================================
 import 'package:app_cirio/model/stream.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
+
+//====================================
+//Local de seleção de cidades
+//====================================
+//Sugestão: se possível, tirar os underlines (_) e deixar os espaços normais
+//====================================
 const cidades = [
   "Abaetetuba",
   "Abel_Figueiredo",
