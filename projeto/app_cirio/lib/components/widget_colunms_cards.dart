@@ -3,37 +3,18 @@ import 'package:app_cirio/model/database.dart';
 import 'package:app_cirio/paginas/pagina_updateCad.dart';
 import 'package:flutter/material.dart';
 
-
 class ColunaDeCadastrados extends StatefulWidget {
   const ColunaDeCadastrados({super.key});
 
   @override
   State<ColunaDeCadastrados> createState() => _ColunaDeCadastradosState();
 }
+
 //================================
 //Widget para coluna de cadastrados
 //================================
 class _ColunaDeCadastradosState extends State<ColunaDeCadastrados> {
   final dbHelper = DatabaseHelper();
-  Future<List> fetchData() async {
-    // Simule carregar 100 elementos
-    await Future.delayed(const Duration(seconds: 5));
-    //=============================================
-    //Sugestão: tirar os 'josué' e trocar para 'usuário'
-    //=============================================
-    List data = [
-      {'id': 1, 'nome': 'josue'},
-      {'id': 1, 'nome': 'josue1'},
-      {'id': 1, 'nome': 'josue2'},
-      {'id': 1, 'nome': 'josue3'},
-      {'id': 1, 'nome': 'josue4'},
-      {'id': 1, 'nome': 'josue5'},
-      {'id': 1, 'nome': 'josue6'},
-      {'id': 1, 'nome': 'josue7'},
-      {'id': 1, 'nome': 'josue8'},
-    ];
-    return data;
-  }
 
   @override
   Widget build(BuildContext context) {

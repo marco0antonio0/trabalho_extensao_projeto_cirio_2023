@@ -75,7 +75,7 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
                           mode: TextInputType.number,
                         ),
                         // =============================================
-                        // entrada de texto para o campo >>>> 'Cidade de Origem'
+                        // entrada de texto para o campo >>>> 'origem de partida'
                         WidgetDropComponent(
                           campo: distanciaCampo,
                           titulo: 'Cidade de Origem',
