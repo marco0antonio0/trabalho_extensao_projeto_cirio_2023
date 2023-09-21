@@ -1,6 +1,10 @@
 import 'package:app_cirio/model/stream.dart';
 import 'package:flutter/material.dart';
 
+//====================================
+//Componentes para seleção de radio 
+//====================================
+
 // ignore: must_be_immutable
 class WidgetRadioComponentSexo extends StatefulWidget {
   String titulo;
