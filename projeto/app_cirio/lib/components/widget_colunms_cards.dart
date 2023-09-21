@@ -10,12 +10,17 @@ class ColunaDeCadastrados extends StatefulWidget {
   @override
   State<ColunaDeCadastrados> createState() => _ColunaDeCadastradosState();
 }
-
+//================================
+//Widget para coluna de cadastrados
+//================================
 class _ColunaDeCadastradosState extends State<ColunaDeCadastrados> {
   final dbHelper = DatabaseHelper();
   Future<List> fetchData() async {
     // Simule carregar 100 elementos
     await Future.delayed(const Duration(seconds: 5));
+    //=============================================
+    //Sugestão: tirar os 'josué' e trocar para 'usuário'
+    //=============================================
     List data = [
       {'id': 1, 'nome': 'josue'},
       {'id': 1, 'nome': 'josue1'},
