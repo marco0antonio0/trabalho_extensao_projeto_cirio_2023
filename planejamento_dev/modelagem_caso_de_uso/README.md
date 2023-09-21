@@ -2,7 +2,7 @@
 
 A modelagem de caso de uso é uma técnica valiosa no processo de desenvolvimento de software, permitindo que os desenvolvedores e as partes interessadas visualizem e entendam como um sistema interage com os usuários finais. Neste contexto, utilizaremos a modelagem de caso de uso para descrever as principais funcionalidades do aplicativo "Projeto Cirio 2023".
 
-![img](/planejamento_dev/modelagem_caso_de_uso/estudo_de_caso_de_uso.png)
+![img](/planejamento_dev/modelagem_caso_de_uso/estudo_de_caso_de_uso1.png)
 
 O aplicativo "Projeto Cirio 2023" é uma iniciativa acadêmica do Grupo UNAMA, desenvolvida para tornar o processo de cadastramento de participantes do evento do Cirio mais conveniente e eficiente. Esta modelagem de caso de uso fornecerá uma visão detalhada das interações entre os usuários e o sistema, destacando as principais funcionalidades, fluxos de trabalho e como o aplicativo atende às necessidades dos participantes.
 
