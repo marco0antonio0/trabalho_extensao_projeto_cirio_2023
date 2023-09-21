@@ -5,6 +5,10 @@ import 'package:app_cirio/paginas/pagina_consulta.dart';
 import 'package:app_cirio/paginas/pagina_mensagem_sis_suporte.dart';
 import 'package:flutter/material.dart';
 
+//=======================================
+//Componentes para página de menu
+//=======================================
+
 class Widgetmenu extends StatelessWidget {
   const Widgetmenu({super.key});
 
@@ -15,6 +19,10 @@ class Widgetmenu extends StatelessWidget {
       height: 250,
       // color: Colors.green,
       child: Column(
+
+        //=============================
+        //Botões abaixo
+        //=============================
         children: [
           Expanded(
               flex: 1,

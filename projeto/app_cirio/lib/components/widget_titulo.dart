@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+//===========================
+//widget para titulos
+//===========================
+
 // ignore: must_be_immutable
 class WidgetTitulo extends StatelessWidget {
   double height;
@@ -15,6 +19,9 @@ class WidgetTitulo extends StatelessWidget {
       alignment: Alignment.center,
       child: Text(
         titulo,
+        //=========================
+        //Sugestão: colocar 'const' antes de 'TextStyle()'
+        //=========================
         style: TextStyle(
             fontSize: 25, color: Color(0xffBE904C), fontFamily: 'Inter-medium'),
       ),
