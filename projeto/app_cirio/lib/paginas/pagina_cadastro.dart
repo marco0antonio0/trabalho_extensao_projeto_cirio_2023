@@ -10,13 +10,18 @@ import 'package:app_cirio/model/stream.dart';
 import 'package:app_cirio/paginas/pagina_mensagem_sis_cad.dart';
 import 'package:flutter/material.dart';
 
+//==============================
+//StatefulWidget da página de Cadastro
 class PaginaCadastro extends StatefulWidget {
   const PaginaCadastro({super.key});
-
+//=====================================
+//
   @override
   State<PaginaCadastro> createState() => _PaginaCadastroState();
 }
 
+//===================================
+//Formulários de cadastro
 class _PaginaCadastroState extends State<PaginaCadastro> {
   TextEditingController nomeCampo = TextEditingController();
   TextEditingController idadeCampo = TextEditingController();
