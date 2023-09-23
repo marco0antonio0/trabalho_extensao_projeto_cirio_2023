@@ -56,7 +56,6 @@ class _PaginoHomeState extends State<PaginoHome> {
                             //==============================================
                             const Widgetmenu(),
                             const widgetDisplay(),
-                            const Widgetbottom()
                           ],
                         )))),
 
