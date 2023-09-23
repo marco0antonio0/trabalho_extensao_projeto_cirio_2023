@@ -1,5 +1,6 @@
 # Projeto Cirio 2023 - Aplicativo de Cadastro de Participantes
 
+![Cirio 2023](/images_readme/image_3.png)
 ![Cirio 2023](/images_readme/imagem_cirio_2023.png)
 
 ## Acesso rapido
@@ -42,6 +43,7 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 **Divirta-se cadastrando e compartilhando momentos inesquecíveis no Cirio 2023!**
 
 ## Colaboradores
+
 - [@Marco Antonio](https://github.com/marco0antonio0)
 - [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
 - [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
