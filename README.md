@@ -5,7 +5,7 @@
 ## Acesso rapido
 
 - [Acesso a modelagem de dados](/modelagem_banco_dados/README.md)
-- [Acesso ao projeto app flutter](/projeto/app_cirio/)
+- [Acesso ao projeto app flutter](/projeto/rota_religiosa/)
 - [Acesso ao planejamento](/planejamento_dev/README.md)
 - [Acesso a modelagem caso de uso](/planejamento_dev/modelagem_caso_de_uso/README.md)
 
