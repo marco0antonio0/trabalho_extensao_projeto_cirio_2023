@@ -37,6 +37,7 @@ class PaginoMensagemSistemaSobre extends StatelessWidget {
 - Felipe neri''';
 // documentação
   String text5 = '''
+- Alex
 - Brenda
 - Maycon
 - Hugo
