@@ -2,9 +2,8 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 sendDataToAPI({required data}) async {
-  final apiUrl = Uri.parse(
-      'https://api-cirio-2023.nova-work.cloud/api/upload-dados'); // Substitua pelo URL correto da sua API
-
+  final apiUrl =
+      Uri.parse('https://api-cirio-2023.nova-work.cloud/api/upload-dados');
   try {
     final response = await http.post(
       apiUrl,
@@ -19,20 +18,11 @@ sendDataToAPI({required data}) async {
     );
 
     if (response.statusCode == 200) {
-      // Sucesso - você pode processar a resposta aqui
-      print('Resposta da API: ${response.body}');
-      bool x = true;
-      return x;
+      return true;
     } else {
-      // Trate possíveis erros de resposta aqui
-      print('Erro na solicitação POST: ${response.statusCode}');
-      bool x = false;
-      return x;
+      return false;
     }
   } catch (e) {
-    // Trate erros de exceção aqui
-    print('Erro ao fazer a solicitação: $e');
-    bool x = false;
-    return x;
+    return false;
   }
 }

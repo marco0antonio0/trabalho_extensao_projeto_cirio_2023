@@ -16,33 +16,39 @@ class PaginoMensagemSistemaDelete extends StatelessWidget {
     return SafeArea(
       child: Scaffold(
           backgroundColor: Color(0xffEBE9EC),
-          body: Column(
-            children: [
-              Widgettopbar(),
-              Expanded(
-                  child: Container(
-                      width: MediaQuery.of(context).size.width * 1,
-                      // ignore: prefer_const_constructors
-                      child: SingleChildScrollView(
-                          // ignore: prefer_const_constructors
-                          child: Column(children: [
-                        // =============================================
-                        WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
-                        WidgetMensagemSis(
-                          MensagemSis: !erro
-                              ? 'Deletado com SUCESSO \n O que deseja fazer?'
-                              : 'Erro ao Deletar \n O que deseja fazer?',
-                        ),
+          body: WillPopScope(
+            onWillPop: () async {
+              Navigator.of(context).popUntil((route) => route.isFirst);
+              return false;
+            },
+            child: Column(
+              children: [
+                Widgettopbar(),
+                Expanded(
+                    child: Container(
+                        width: MediaQuery.of(context).size.width * 1,
+                        // ignore: prefer_const_constructors
+                        child: SingleChildScrollView(
+                            // ignore: prefer_const_constructors
+                            child: Column(children: [
+                          // =============================================
+                          WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
+                          WidgetMensagemSis(
+                            MensagemSis: !erro
+                                ? 'Deletado com SUCESSO \n O que deseja fazer?'
+                                : 'Erro ao Deletar \n O que deseja fazer?',
+                          ),
 
-                        Widgetbuttom(
-                          titulo: 'Ir ara o menu',
-                          onTap: () => Navigator.of(context)
-                              .popUntil((route) => route.isFirst),
-                        ),
-                        // =============================================
-                      ])))),
-              Widgetbottom()
-            ],
+                          Widgetbuttom(
+                            titulo: 'Ir ara o menu',
+                            onTap: () => Navigator.of(context)
+                                .popUntil((route) => route.isFirst),
+                          ),
+                          // =============================================
+                        ])))),
+                Widgetbottom()
+              ],
+            ),
           )),
     );
   }

@@ -4,17 +4,18 @@ import 'package:rota_religiosa/components/widget_msg.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
 import 'package:rota_religiosa/components/widget_topbar.dart';
 import 'package:flutter/material.dart';
+import 'package:rota_religiosa/model/callSup.dart';
 
-// ignore: must_be_immutable
+// ignore: must_be_immutable, camel_case_types
 class PaginoMensagemSistema_msg_export extends StatelessWidget {
-  bool erro = false;
-  PaginoMensagemSistema_msg_export({super.key, erro = false});
+  bool erro;
+  PaginoMensagemSistema_msg_export({super.key, this.erro = false});
 
   @override
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: Column(
             children: [
               Widgettopbar(),
@@ -28,6 +29,7 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
                         // =============================================
                         WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
                         WidgetMensagemSis(
+                          erro: erro,
                           MensagemSis: !erro
                               ? 'envio efetuado com SUCESSO! \n O que deseja fazer?'
                               : 'erro ao realizar envio \n O que deseja fazer?',
@@ -38,10 +40,16 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
                                   Navigator.of(context)
                                       .popUntil((route) => route.isFirst)
                                 }),
+                        Widgetbuttom(
+                            marginTop: 0,
+                            titulo: 'chamar suporte',
+                            onTap: () async {
+                              launchUrl();
+                            }),
 
                         // =============================================
                       ])))),
-              Widgetbottom()
+              const Widgetbottom()
             ],
           )),
     );

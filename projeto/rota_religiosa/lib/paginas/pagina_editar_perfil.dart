@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rota_religiosa/components/widget_bottomBar.dart';
 import 'package:rota_religiosa/components/widget_buttom.dart';
 import 'package:rota_religiosa/components/widget_input_component.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
@@ -20,6 +21,7 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
   TextEditingController idnomeCampo = TextEditingController();
   TextEditingController telefoneCampo = TextEditingController();
   TextEditingController blocoCampo = TextEditingController();
+  TextEditingController passWordServerCampo = TextEditingController();
   StreamDados streamDados = StreamDados();
   // @override
   initState() {
@@ -30,6 +32,8 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
     telefoneCampo =
         TextEditingController(text: streamDados.data[0]['telefone'].toString());
     blocoCampo = TextEditingController(text: streamDados.data[0]['bloco']);
+    passWordServerCampo =
+        TextEditingController(text: streamDados.data[0]['pass']);
   }
 
   final dbHelper = DatabaseHelper();
@@ -39,7 +43,7 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: SingleChildScrollView(
             child: Column(
               children: [
@@ -76,51 +80,60 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
                   titulo: 'Bloco',
                   mode: TextInputType.text,
                 ),
+                WidgetInputComponent(
+                  password: true,
+                  campo: passWordServerCampo,
+                  titulo: 'senha servidor',
+                  mode: TextInputType.text,
+                ),
                 erro
-                    ? Container(
-                        child: Text(erroMensagem!),
+                    ? Text(
+                        erroMensagem!,
+                        style: const TextStyle(color: Colors.red),
                       )
                     : Container(),
                 //========================================
                 // Botão de clique para outra pagina >>>>> 'Atualizar'
                 Widgetbuttom(
-                  titulo: 'Atualizar',
-                  onTap: () async {
-                    if (nomeCampo.text.isNotEmpty &&
-                        telefoneCampo.text.isNotEmpty &&
-                        blocoCampo.text.isNotEmpty) {
-                      dynamic y = await dbHelper.selectUser();
-                      dynamic data = {
-                        'id': streamDados.data[0]['id'],
-                        'nome': nomeCampo.text,
-                        'telefone': int.parse(telefoneCampo.text),
-                        'bloco': blocoCampo.text,
-                        'idUsuario': y[0]['idUsuario']
-                      };
-                      dynamic x = await dbHelper.updateUser(data: data);
+                    titulo: 'Atualizar',
+                    onTap: () async {
+                      if (nomeCampo.text.isNotEmpty &&
+                          telefoneCampo.text.isNotEmpty &&
+                          blocoCampo.text.isNotEmpty &&
+                          passWordServerCampo.text.isNotEmpty) {
+                        dynamic y = await dbHelper.selectUser();
+                        dynamic data = {
+                          'id': streamDados.data[0]['id'],
+                          'nome': nomeCampo.text,
+                          'telefone': int.parse(telefoneCampo.text),
+                          'bloco': blocoCampo.text,
+                          'idUsuario': y[0]['idUsuario'],
+                          'pass': passWordServerCampo.text
+                        };
+                        dynamic x = await dbHelper.updateUser(data: data);
 
-                      if (x != 0) {
-                        streamDados.atualizardata([data]);
-                        // ignore: use_build_context_synchronously
-                        config_rota().animacao_2(context,
-                            mode: false,
-                            novaPagina: PaginoMensagemSistemaUpdate());
+                        if (x != 0) {
+                          streamDados.atualizardata([data]);
+                          // ignore: use_build_context_synchronously
+                          config_rota().animacao_2(context,
+                              mode: false,
+                              novaPagina: PaginoMensagemSistemaUpdate());
+                        } else {
+                          setState(() {
+                            erro = true;
+                            erroMensagem =
+                                'erro ao atualizar seu dados\nse persistir contate o suporte ';
+                          });
+                        }
                       } else {
                         setState(() {
                           erro = true;
                           erroMensagem =
-                              'erro ao atualizar seu dados\nse persistir contate o suporte ';
+                              'preencha todos os campos \npara atualizar os dados';
                         });
                       }
-                    } else {
-                      setState(() {
-                        erro = true;
-                        erroMensagem =
-                            'preencha todos os campos \npara atualizar os dados';
-                      });
-                    }
-                  },
-                ),
+                    }),
+                const Widgetbottom()
               ],
             ),
           )),

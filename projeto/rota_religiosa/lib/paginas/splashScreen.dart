@@ -39,13 +39,12 @@ class _SplashLoadState extends State<SplashLoad> {
                     image: AssetImage('assets/appsplashImage.png'))),
           ]),
           Align(
-              alignment: Alignment(0, -0.2),
+              alignment: const Alignment(0, -0.2),
               child: FutureBuilder(
                 future: dbHelper.selectUser(),
                 builder: (context, AsyncSnapshot snapshot) {
                   if (snapshot.connectionState == ConnectionState.done) {
                     // ignore: avoid_print
-                    print(snapshot.data);
                     if (snapshot.data.isEmpty) {
                       Future.delayed(const Duration(seconds: 6), () {
                         config_rota().animacao_2(context,

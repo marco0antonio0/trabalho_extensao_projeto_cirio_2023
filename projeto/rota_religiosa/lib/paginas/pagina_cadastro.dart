@@ -65,7 +65,7 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
                         // entrada de texto para o campo >>>> 'Nome'
                         WidgetInputComponent(
                           campo: nomeCampo,
-                          titulo: 'Nome',
+                          titulo: 'Nome completo',
                           mode: TextInputType.name,
                         ),
                         // =============================================
@@ -119,10 +119,14 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
                                   'sexo': streamDados.opSexo,
                                   'distancia': streamDados.cidadex
                                 };
-                                print(data);
                                 int result =
                                     await dbHelper.insertCad(data: data);
                                 if (result != 0) {
+                                  // nomeCampo.clear();
+                                  // idadeCampo.clear();
+                                  // streamDados.atualizarOpSexo('');
+                                  // streamDados.atualizarcidade('');
+                                  // streamDados.atualizarListaAtendimento('');
                                   // ignore: use_build_context_synchronously
                                   config_rota().animacao_2(context,
                                       novaPagina: PaginoMensagemSistemaCad(

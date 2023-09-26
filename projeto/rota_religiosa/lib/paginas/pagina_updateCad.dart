@@ -69,7 +69,7 @@ class _PaginaUpdateCadastroState extends State<PaginaUpdateCadastro> {
                         // entrada de texto para o campo >>>>  Nome
                         WidgetInputComponent(
                           campo: nomeCampo,
-                          titulo: 'Nome',
+                          titulo: 'Nome completo',
                           mode: TextInputType.name,
                         ),
                         //==============================================

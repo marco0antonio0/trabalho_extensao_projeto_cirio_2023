@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:rota_religiosa/components/widget_bottomBar.dart';
 import 'package:rota_religiosa/components/widget_display.dart';
 import 'package:rota_religiosa/components/widget_menu.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';

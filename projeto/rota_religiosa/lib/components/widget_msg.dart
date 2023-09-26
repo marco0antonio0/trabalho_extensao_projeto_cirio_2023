@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 // ignore: must_be_immutable
 class WidgetMensagemSis extends StatelessWidget {
   String MensagemSis;
-  WidgetMensagemSis({super.key, this.MensagemSis = ''});
+  bool erro;
+  WidgetMensagemSis({super.key, this.MensagemSis = '', this.erro = false});
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +14,10 @@ class WidgetMensagemSis extends StatelessWidget {
       // margin: EdgeInsets.symmetric(horizontal: 50),
       child: Text(
         MensagemSis,
-        style: TextStyle(fontFamily: 'Kanit', fontSize: 20),
+        style: TextStyle(
+            fontFamily: 'Kanit',
+            fontSize: 20,
+            color: erro ? Colors.red : Colors.black),
         textAlign: TextAlign.justify,
       ),
     );

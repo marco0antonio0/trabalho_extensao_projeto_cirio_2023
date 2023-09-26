@@ -6,6 +6,7 @@ import 'package:rota_religiosa/components/widget_topbar.dart';
 import 'package:rota_religiosa/controller/router_settings.dart';
 import 'package:rota_religiosa/model/database.dart';
 import 'package:rota_religiosa/model/getData.dart';
+import 'package:rota_religiosa/model/stream.dart';
 import 'package:rota_religiosa/paginas/pagina_mensagem_sis_export_mensage.dart';
 import 'package:flutter/material.dart';
 
@@ -22,6 +23,7 @@ class _PaginoMensagemSistemaExportState
   final dbHelper = DatabaseHelper();
 
   bool load = false;
+  StreamDados streamDados = StreamDados();
   @override
   Widget build(BuildContext context) {
     return SafeArea(
@@ -73,6 +75,7 @@ class _PaginoMensagemSistemaExportState
                                     if (data.length > 0) {
                                       for (var i = 0; i < data.length; i++) {
                                         dynamic datax = {
+                                          'pass': streamDados.data[0]['pass'],
                                           'dataTimeUpload': formattedDate,
                                           'idUsuario': data0[0]['idUsuario'],
                                           'nomeUsuario': data0[0]['nome'],
@@ -84,8 +87,8 @@ class _PaginoMensagemSistemaExportState
                                         };
                                         gen.add(datax);
                                       }
-                                      bool x = await sendDataToAPI(data: gen);
-                                      if (x) {
+                                      bool res = await sendDataToAPI(data: gen);
+                                      if (res) {
                                         // ignore: use_build_context_synchronously
                                         config_rota().animacao_2(context,
                                             mode: false,

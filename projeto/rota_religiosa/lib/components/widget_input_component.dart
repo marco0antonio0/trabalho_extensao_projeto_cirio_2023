@@ -8,27 +8,34 @@ class WidgetInputComponent extends StatefulWidget {
   TextInputType? mode;
   String titulo;
   bool isDisable = false;
+  bool password = false;
   WidgetInputComponent(
       {super.key,
       this.titulo = '',
       this.modeFormater = false,
       this.mode = TextInputType.text,
       required this.campo,
-      this.isDisable = false});
+      this.isDisable = false,
+      this.password = false});
 
   @override
   State<WidgetInputComponent> createState() => _WidgetInputComponentState(
-      campo: campo, modeFormater: modeFormater, isDisable: isDisable);
+      campo: campo,
+      modeFormater: modeFormater,
+      isDisable: isDisable,
+      password: password);
 }
 
 class _WidgetInputComponentState extends State<WidgetInputComponent> {
   bool isDisable = false;
   bool modeFormater = false;
+  bool password = false;
   TextEditingController campo;
   _WidgetInputComponentState(
       {required this.campo,
       required this.modeFormater,
-      this.isDisable = false});
+      this.isDisable = false,
+      this.password = false});
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -69,6 +76,7 @@ class _WidgetInputComponentState extends State<WidgetInputComponent> {
                       )),
                   // component TextFiedld
                   TextField(
+                      obscureText: password,
                       enabled: !isDisable,
                       inputFormatters: modeFormater
                           ? <TextInputFormatter>[

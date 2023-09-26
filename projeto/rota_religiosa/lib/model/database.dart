@@ -59,7 +59,8 @@ class DatabaseHelper {
           idUsuario TEXT,
           nome TEXT,
           telefone INTEGER,
-          bloco TEXT
+          bloco TEXT,
+          pass TEXT
       )
     ''');
   }
@@ -124,13 +125,14 @@ class DatabaseHelper {
   Future<int> insertUser({data}) async {
     final db = await database;
     final id = await db.rawInsert('''
-    INSERT INTO usuario (idUsuario,nome, telefone, bloco)
-    VALUES (?, ?, ?,?)
+    INSERT INTO usuario (idUsuario,nome, telefone, bloco,pass)
+    VALUES (?,?,?,?,?)
   ''', [
       data['idUsuario'],
       data['nome'],
       data['telefone'],
       data['bloco'],
+      data['pass'],
     ]);
 
     return id;
@@ -151,13 +153,14 @@ class DatabaseHelper {
       final db = await database;
       final id = await db.rawUpdate('''
     UPDATE usuario
-    SET nome = ?, telefone = ?, bloco = ?, idUsuario = ?
+    SET nome = ?, telefone = ?, bloco = ?, idUsuario = ? ,pass = ?
     WHERE id = ?
   ''', [
         data['nome'],
         data['telefone'],
         data['bloco'],
         data['idUsuario'],
+        data['pass'],
         data['id']
       ]);
 
