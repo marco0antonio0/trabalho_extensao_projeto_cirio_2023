@@ -4,12 +4,24 @@ import 'package:rota_religiosa/components/widget_msg.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
 import 'package:rota_religiosa/components/widget_topbar.dart';
 import 'package:flutter/material.dart';
-import 'package:rota_religiosa/model/callSup.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 // ignore: must_be_immutable, camel_case_types
 class PaginoMensagemSistema_msg_export extends StatelessWidget {
   bool erro;
   PaginoMensagemSistema_msg_export({super.key, this.erro = false});
+  Future<void> _launchUrl() async {
+    final Uri url = Uri.parse(
+        'https://wa.me/5591984837847?text=Ola%20estou%20precisando%20de%20ajuda%20com%20o%20aplicativo%20!');
+    try {
+      if (await canLaunchUrl(url)) {
+        await launchUrl(url);
+      } else {
+        throw Exception('Could not launch $url');
+      }
+      // ignore: empty_catches
+    } catch (e) {}
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -44,7 +56,7 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
                             marginTop: 0,
                             titulo: 'chamar suporte',
                             onTap: () async {
-                              launchUrl();
+                              await _launchUrl();
                             }),
 
                         // =============================================

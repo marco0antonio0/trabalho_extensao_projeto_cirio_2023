@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:rota_religiosa/components/widget_bottomBar.dart';
 import 'package:rota_religiosa/components/widget_buttom.dart';
 import 'package:rota_religiosa/components/widget_input_component.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
@@ -133,7 +132,7 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
                         });
                       }
                     }),
-                const Widgetbottom()
+                // const Widgetbottom()
               ],
             ),
           )),

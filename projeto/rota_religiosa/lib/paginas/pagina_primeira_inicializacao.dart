@@ -1,4 +1,3 @@
-import 'package:rota_religiosa/components/widget_bottomBar.dart';
 import 'package:rota_religiosa/components/widget_buttom.dart';
 import 'package:rota_religiosa/components/widget_input_component.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
@@ -117,7 +116,7 @@ class _PaginaPrimeiraInicializacaoState
                               });
                             }
                           }),
-                      const Widgetbottom()
+                      // const Widgetbottom()
                     ],
                   ),
                 ),
