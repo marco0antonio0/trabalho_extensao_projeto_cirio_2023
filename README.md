@@ -50,7 +50,7 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 - [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
 - [@Melize Tamires Porto Rocha](https://github.com/melizerocha)
 - [@Felipe Santos de Moura](https://github.com/FelipeMourah)
-- [Matheus Barbosa de Andrade](https://github.com/MatheusBarbosaDeAndrade)
+- [@Matheus Barbosa de Andrade](https://github.com/MatheusBarbosaDeAndrade)
 - Mateus da Cunha Nunes
 - Rellan Monteiro de Freitas Junior
 - Igor Alexsandro Barbosa da Costa
