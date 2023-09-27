@@ -21,12 +21,12 @@ class PaginoMensagemSistema_confirm extends StatelessWidget {
           return false;
         },
         child: Scaffold(
-            backgroundColor: Color(0xffEBE9EC),
+            backgroundColor: const Color(0xffEBE9EC),
             body: Column(
               children: [
                 Widgettopbar(),
                 Expanded(
-                    child: Container(
+                    child: SizedBox(
                         width: MediaQuery.of(context).size.width * 1,
                         // ignore: prefer_const_constructors
                         child: SingleChildScrollView(
@@ -54,7 +54,7 @@ class PaginoMensagemSistema_confirm extends StatelessWidget {
                           ),
                           // =============================================
                         ])))),
-                Widgetbottom()
+                const Widgetbottom()
               ],
             )),
       ),

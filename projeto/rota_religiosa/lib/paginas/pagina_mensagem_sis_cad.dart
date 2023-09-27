@@ -16,7 +16,7 @@ class PaginoMensagemSistemaCad extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: WillPopScope(
             onWillPop: () async {
               Navigator.of(context).popUntil((route) => route.isFirst);
@@ -26,7 +26,7 @@ class PaginoMensagemSistemaCad extends StatelessWidget {
               children: [
                 Widgettopbar(),
                 Expanded(
-                    child: Container(
+                    child: SizedBox(
                         width: MediaQuery.of(context).size.width * 1,
                         // ignore: prefer_const_constructors
                         child: SingleChildScrollView(
@@ -37,14 +37,10 @@ class PaginoMensagemSistemaCad extends StatelessWidget {
                           WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
                           WidgetMensagemSis(
                             MensagemSis: !error || !error1
-                                ? 'Cadastro efetuado com SUCESSO' +
-                                    '! \n O que deseja fazer?'
+                                ? 'Cadastro efetuado com SUCESSO! \n O que deseja fazer?'
                                 : !error1
-                                    ? 'Erro ao realizar o cadastro' +
-                                        '! \n O que deseja fazer?'
-                                    : 'Erro ao realizar o cadastro' +
-                                        "\n variavel de entrada não permitida" +
-                                        '! \n O que deseja fazer?',
+                                    ? 'Erro ao realizar o cadastro! \n O que deseja fazer?'
+                                    : 'Erro ao realizar o cadastro\n variavel de entrada não permitida! \n O que deseja fazer?',
                           ),
                           // //=============================================<<<<<<<<<<<< desabilitado por questões de erros recorrentes
                           // // Botão para 'Cad Novamente' ou 'tentar novamente'

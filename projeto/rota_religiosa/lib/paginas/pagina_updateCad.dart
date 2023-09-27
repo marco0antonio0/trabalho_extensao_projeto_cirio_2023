@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 import 'package:rota_religiosa/components/widget_bottomBar.dart';
 import 'package:rota_religiosa/components/widget_buttom.dart';
 import 'package:rota_religiosa/components/widget_drop_buttom_component.dart';
@@ -49,12 +51,12 @@ class _PaginaUpdateCadastroState extends State<PaginaUpdateCadastro> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: Column(
             children: [
               Widgettopbar(),
               Expanded(
-                  child: Container(
+                  child: SizedBox(
                       width: MediaQuery.of(context).size.width * 1,
                       // ignore: prefer_const_constructors
                       child: SingleChildScrollView(

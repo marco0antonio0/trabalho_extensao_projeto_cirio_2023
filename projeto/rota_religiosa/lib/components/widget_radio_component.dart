@@ -22,7 +22,7 @@ class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
     return Container(
       height: 120,
       width: MediaQuery.of(context).size.width,
-      margin: EdgeInsets.only(bottom: 15),
+      margin: const EdgeInsets.only(bottom: 15),
       child: Row(
         children: [
           const Spacer(flex: 15),
@@ -103,7 +103,7 @@ class _WidgetRadioComponentSexoState extends State<WidgetRadioComponentSexo> {
                       ))
                 ],
               )),
-          Spacer(flex: 25)
+          const Spacer(flex: 25)
         ],
       ),
     );
@@ -130,7 +130,7 @@ class _WidgetRadioComponentAtendimentoState
     return Container(
       height: 150,
       width: MediaQuery.of(context).size.width,
-      margin: EdgeInsets.only(bottom: 15),
+      margin: const EdgeInsets.only(bottom: 15),
       child: Row(
         children: [
           const Spacer(flex: 15),
@@ -228,7 +228,7 @@ class _WidgetRadioComponentAtendimentoState
                       ))
                 ],
               )),
-          Spacer(flex: 25)
+          const Spacer(flex: 25)
         ],
       ),
     );

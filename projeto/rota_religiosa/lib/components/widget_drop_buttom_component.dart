@@ -3,7 +3,6 @@
 //=====================================================
 import 'package:rota_religiosa/model/stream.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
 //====================================
 //Local de seleção de cidades
@@ -24,6 +23,7 @@ class WidgetDropComponent extends StatefulWidget {
 
   @override
   State<WidgetDropComponent> createState() =>
+      // ignore: no_logic_in_create_state
       _WidgetDropComponentState(campo: campo, valuex: value);
 }
 
@@ -202,7 +202,7 @@ class _WidgetDropComponentState extends State<WidgetDropComponent> {
               child: Column(
                 children: [
                   // margem
-                  Container(margin: EdgeInsets.only(bottom: 27)),
+                  Container(margin: const EdgeInsets.only(bottom: 27)),
                   // icone santinha
                   Container(
                       alignment: Alignment.centerRight,
@@ -235,7 +235,7 @@ class _WidgetDropComponentState extends State<WidgetDropComponent> {
                         streamDados.atualizarcidade(value!);
                       },
                       label: Container(
-                          margin: EdgeInsets.only(left: 10),
+                          margin: const EdgeInsets.only(left: 10),
                           child: Text(valuex.isEmpty ? 'Selecione' : valuex)),
                       initialSelection: streamDados.cidadex,
                       enableFilter: true,

@@ -23,9 +23,9 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
   TextEditingController passWordServerCampo = TextEditingController();
   StreamDados streamDados = StreamDados();
   // @override
+  @override
   initState() {
     super.initState();
-    print(streamDados.data[0]);
     nomeCampo = TextEditingController(text: streamDados.data[0]['nome']);
     idnomeCampo = TextEditingController(text: streamDados.data[0]['idUsuario']);
     telefoneCampo =
@@ -62,8 +62,8 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
                 //entrada de texto para alteração do campo >>>> 'Nome'
                 WidgetInputComponent(
                   campo: nomeCampo,
-                  titulo: 'Nome',
-                  mode: TextInputType.text,
+                  titulo: 'Email',
+                  mode: TextInputType.emailAddress,
                 ),
                 //========================================
                 //entrada de texto para alteração do campo >>>> 'Telefone'
@@ -80,7 +80,7 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
                   mode: TextInputType.text,
                 ),
                 WidgetInputComponent(
-                  password: true,
+                  // password: true,s
                   campo: passWordServerCampo,
                   titulo: 'senha servidor',
                   mode: TextInputType.text,

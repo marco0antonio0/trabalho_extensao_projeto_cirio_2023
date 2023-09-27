@@ -29,6 +29,7 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
   TextEditingController distanciaCampo = TextEditingController();
   StreamDados streamDados = StreamDados();
   final dbHelper = DatabaseHelper();
+  @override
   void initState() {
     super.initState();
     streamDados.atualizarcidade('');
@@ -36,7 +37,6 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
     streamDados.atualizarListaAtendimento('');
     nomeCampo = TextEditingController(text: '');
     idadeCampo = TextEditingController(text: '');
-    distanciaCampo = TextEditingController(text: '');
   }
 
   bool erro = false;
@@ -44,12 +44,12 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: Column(
             children: [
               Widgettopbar(),
               Expanded(
-                  child: Container(
+                  child: SizedBox(
                       width: MediaQuery.of(context).size.width * 1,
                       // ignore: prefer_const_constructors
                       child: SingleChildScrollView(
@@ -71,6 +71,7 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
                         // =============================================
                         // entrada de texto para o campo >>>>  'Idade'
                         WidgetInputComponent(
+                          idade: true,
                           modeFormater: true,
                           campo: idadeCampo,
                           titulo: 'Idade',
@@ -95,8 +96,9 @@ class _PaginaCadastroState extends State<PaginaCadastro> {
                         !erro
                             ? Container()
                             : Container(
-                                margin: EdgeInsets.only(top: 18, bottom: 4),
-                                child: Text(
+                                margin:
+                                    const EdgeInsets.only(top: 18, bottom: 4),
+                                child: const Text(
                                   'preencha todos os campos',
                                   style: TextStyle(
                                       color: Colors.red, fontSize: 17),

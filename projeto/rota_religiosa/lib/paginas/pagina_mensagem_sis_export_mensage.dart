@@ -10,6 +10,7 @@ import 'package:url_launcher/url_launcher.dart';
 class PaginoMensagemSistema_msg_export extends StatelessWidget {
   bool erro;
   PaginoMensagemSistema_msg_export({super.key, this.erro = false});
+  // ignore: unused_element
   Future<void> _launchUrl() async {
     final Uri url = Uri.parse(
         'https://wa.me/5591984837847?text=Ola%20estou%20precisando%20de%20ajuda%20com%20o%20aplicativo%20!');
@@ -32,7 +33,7 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
             children: [
               Widgettopbar(),
               Expanded(
-                  child: Container(
+                  child: SizedBox(
                       width: MediaQuery.of(context).size.width * 1,
                       // ignore: prefer_const_constructors
                       child: SingleChildScrollView(
@@ -44,7 +45,7 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
                           erro: erro,
                           MensagemSis: !erro
                               ? 'envio efetuado com SUCESSO! \n O que deseja fazer?'
-                              : 'erro ao realizar envio \n O que deseja fazer?',
+                              : 'erro ao realizar envio\n Caso o erro persista contate o suporte whatsapp 91 984837847 \n O que deseja fazer?',
                         ),
                         Widgetbuttom(
                             titulo: 'ir para menu',
@@ -52,12 +53,14 @@ class PaginoMensagemSistema_msg_export extends StatelessWidget {
                                   Navigator.of(context)
                                       .popUntil((route) => route.isFirst)
                                 }),
-                        Widgetbuttom(
-                            marginTop: 0,
-                            titulo: 'chamar suporte',
-                            onTap: () async {
-                              await _launchUrl();
-                            }),
+                        //==================================================
+                        // funcionando somente em alguns aparelhos // função pausada
+                        // Widgetbuttom(
+                        //     marginTop: 0,
+                        //     titulo: 'chamar suporte',
+                        //     onTap: () async {
+                        //       await _launchUrl();
+                        //     }),
 
                         // =============================================
                       ])))),

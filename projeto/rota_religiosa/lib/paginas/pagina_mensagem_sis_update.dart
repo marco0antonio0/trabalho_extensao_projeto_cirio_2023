@@ -14,7 +14,7 @@ class PaginoMensagemSistemaUpdate extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: Column(
             children: [
               Widgettopbar(),
@@ -40,7 +40,7 @@ class PaginoMensagemSistemaUpdate extends StatelessWidget {
                         ),
                         // =============================================
                       ])))),
-              Widgetbottom()
+              const Widgetbottom()
             ],
           )),
     );

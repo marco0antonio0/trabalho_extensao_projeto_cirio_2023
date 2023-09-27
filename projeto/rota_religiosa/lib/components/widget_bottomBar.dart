@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 import 'package:flutter/material.dart';
 
 class Widgetbottom extends StatelessWidget {
@@ -7,9 +9,9 @@ class Widgetbottom extends StatelessWidget {
   Widget build(BuildContext context) {
     //====================================================
     //  component xx  xxx
-    return Container(
+    return SizedBox(
       width: MediaQuery.of(context).size.width * 1,
-      child: Image(
+      child: const Image(
           fit: BoxFit.fitWidth, image: AssetImage('assets/bottombar.png')),
     );
   }

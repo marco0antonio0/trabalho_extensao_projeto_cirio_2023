@@ -1,3 +1,5 @@
+// ignore_for_file: file_names
+
 import 'package:flutter/material.dart';
 import 'package:permission_handler/permission_handler.dart';
 
@@ -6,12 +8,9 @@ Future<void> requestStoragePermission(context, Function? fn) async {
 
   if (status.isGranted) {
     // Permissão concedida, você pode acessar o armazenamento.
-    print('Permissão de armazenamento concedida.');
     fn;
   } else if (status.isDenied) {
     // Permissão negada pelo usuário. Mostrar uma mensagem para orientar o usuário a conceder a permissão.
-    print(
-        'Permissão de armazenamento negada. Você precisa conceder a permissão para usar o aplicativo.');
 
     // Mostrar um diálogo ou uma mensagem para orientar o usuário.
     showDialog(
@@ -35,7 +34,6 @@ Future<void> requestStoragePermission(context, Function? fn) async {
     );
   } else if (status.isPermanentlyDenied) {
     // Permissão negada permanentemente. Geralmente, redirecione o usuário para as configurações do aplicativo.
-    print('Permissão de armazenamento negada permanentemente.');
 
     // Mostrar uma mensagem para redirecionar o usuário para as configurações do aplicativo.
     showDialog(

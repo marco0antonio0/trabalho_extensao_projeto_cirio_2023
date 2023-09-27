@@ -15,7 +15,7 @@ class PaginoMensagemSistemaDelete extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: WillPopScope(
             onWillPop: () async {
               Navigator.of(context).popUntil((route) => route.isFirst);
@@ -25,7 +25,7 @@ class PaginoMensagemSistemaDelete extends StatelessWidget {
               children: [
                 Widgettopbar(),
                 Expanded(
-                    child: Container(
+                    child: SizedBox(
                         width: MediaQuery.of(context).size.width * 1,
                         // ignore: prefer_const_constructors
                         child: SingleChildScrollView(
@@ -46,7 +46,7 @@ class PaginoMensagemSistemaDelete extends StatelessWidget {
                           ),
                           // =============================================
                         ])))),
-                Widgetbottom()
+                const Widgetbottom()
               ],
             ),
           )),

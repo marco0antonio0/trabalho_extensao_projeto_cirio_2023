@@ -1,5 +1,4 @@
 import 'package:rota_religiosa/components/widget_bottomBar.dart';
-import 'package:rota_religiosa/components/widget_buttom.dart';
 import 'package:rota_religiosa/components/widget_display.dart';
 import 'package:rota_religiosa/components/widget_msg.dart';
 import 'package:rota_religiosa/components/widget_titulo.dart';
@@ -17,16 +16,16 @@ class PaginoMensagemSistemaSobre extends StatelessWidget {
   String text2 = '''
 - Marco Antonio
 - Felipe Moura
-- Melize
+- Melize Rocha
 - Matheus Barbosa
 - Igor Costa''';
 // desing
   String text3 = '''
 - Marco Antonio
-- Alex
-- Henri
-- Iago
-- Breno''';
+- Alexsandro Fernandes
+- Henri Deluca
+- Iago Dantas
+- Breno Luiz''';
 // banco de dados
   String text4 = '''
 - Marco Antonio
@@ -37,12 +36,13 @@ class PaginoMensagemSistemaSobre extends StatelessWidget {
 - Felipe neri''';
 // documentação
   String text5 = '''
-- Alex
-- Brenda
-- Maycon
-- Hugo
+- Alexsandro Fernandes
+- Brenda Gomes
+- Maycon Bruno
+- Hugo Ribeiro
 - Tales Costa
-- Thiago''';
+- Thiago Farias''';
+  // ignore: unused_element
   Future<void> _launchUrl() async {
     final Uri url = Uri.parse(
         'https://wa.me/5591984837847?text=Ola%20estou%20precisando%20de%20ajuda%20com%20o%20aplicativo%20!');
@@ -60,7 +60,7 @@ class PaginoMensagemSistemaSobre extends StatelessWidget {
   Widget build(BuildContext context) {
     return SafeArea(
       child: Scaffold(
-          backgroundColor: Color(0xffEBE9EC),
+          backgroundColor: const Color(0xffEBE9EC),
           body: Column(
             children: [
               Widgettopbar(),
@@ -97,13 +97,15 @@ class PaginoMensagemSistemaSobre extends StatelessWidget {
                         ),
                         WidgetMensagemSis(
                           MensagemSis:
-                              'Entre em contato com nosso suporte ao app \n O que deseja fazer?',
+                              'Entre em contato com nosso suporte ao app \n numero de contato whatsapp:\n91 984837847',
                         ),
-                        Widgetbuttom(
-                            titulo: 'chamar suporte',
-                            onTap: () async {
-                              await _launchUrl();
-                            }),
+                        //==================================================
+                        // funcionando somente em alguns aparelhos // função pausada
+                        // Widgetbuttom(
+                        //     titulo: 'chamar suporte',
+                        //     onTap: () async {
+                        //       await _launchUrl();
+                        //     }),
                         const Widgetbottom()
 
                         // =============================================

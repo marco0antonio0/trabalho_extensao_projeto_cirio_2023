@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 
 // ignore: must_be_immutable
 class WidgetInputComponent extends StatefulWidget {
+  bool idade = false;
   bool modeFormater;
   TextEditingController campo = TextEditingController();
   TextInputType? mode;
@@ -16,40 +17,45 @@ class WidgetInputComponent extends StatefulWidget {
       this.mode = TextInputType.text,
       required this.campo,
       this.isDisable = false,
+      this.idade = false,
       this.password = false});
 
   @override
+  // ignore: no_logic_in_create_state
   State<WidgetInputComponent> createState() => _WidgetInputComponentState(
       campo: campo,
       modeFormater: modeFormater,
       isDisable: isDisable,
-      password: password);
+      password: password,
+      idade: idade);
 }
 
 class _WidgetInputComponentState extends State<WidgetInputComponent> {
   bool isDisable = false;
   bool modeFormater = false;
+  bool idade = false;
   bool password = false;
   TextEditingController campo;
   _WidgetInputComponentState(
       {required this.campo,
       required this.modeFormater,
       this.isDisable = false,
+      this.idade = false,
       this.password = false});
   @override
   Widget build(BuildContext context) {
-    return Container(
-      height: 90,
+    return SizedBox(
+      height: 95,
       width: MediaQuery.of(context).size.width,
       child: Row(
         children: [
-          Spacer(flex: 15),
+          const Spacer(flex: 15),
           Expanded(
               flex: 20,
               child: Column(
                 children: [
                   // margem
-                  Container(margin: EdgeInsets.only(bottom: 27)),
+                  Container(margin: const EdgeInsets.only(bottom: 27)),
                   // icone santinha
                   Container(
                       alignment: Alignment.centerRight,
@@ -68,7 +74,7 @@ class _WidgetInputComponentState extends State<WidgetInputComponent> {
                 children: [
                   // text titulo
                   Container(
-                      margin: const EdgeInsets.only(bottom: 5),
+                      margin: const EdgeInsets.only(bottom: 2),
                       alignment: Alignment.bottomLeft,
                       child: Text(
                         widget.titulo,
@@ -76,6 +82,7 @@ class _WidgetInputComponentState extends State<WidgetInputComponent> {
                       )),
                   // component TextFiedld
                   TextField(
+                      maxLength: idade ? 2 : 100,
                       obscureText: password,
                       enabled: !isDisable,
                       inputFormatters: modeFormater

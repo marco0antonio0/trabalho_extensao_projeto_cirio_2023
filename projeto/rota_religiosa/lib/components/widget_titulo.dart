@@ -22,7 +22,7 @@ class WidgetTitulo extends StatelessWidget {
         //=========================
         //Sugestão: colocar 'const' antes de 'TextStyle()'
         //=========================
-        style: TextStyle(
+        style: const TextStyle(
             fontSize: 25, color: Color(0xffBE904C), fontFamily: 'Inter-medium'),
       ),
     );

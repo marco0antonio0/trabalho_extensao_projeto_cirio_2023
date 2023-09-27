@@ -65,7 +65,7 @@ class Widgettopbar extends StatelessWidget {
           ),
           //==============================================
           // margem
-          Container(
+          SizedBox(
             height: 85,
             width: MediaQuery.of(context).size.width * 0.3,
             // color: Colors.green,

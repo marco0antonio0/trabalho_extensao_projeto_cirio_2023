@@ -23,7 +23,7 @@ class _ColunaDeCadastradosState extends State<ColunaDeCadastrados> {
         builder: ((context, snapshot) {
           if (snapshot.connectionState == ConnectionState.waiting) {
             return Container(
-                margin: EdgeInsets.only(top: 30),
+                margin: const EdgeInsets.only(top: 30),
                 child: const CircularProgressIndicator());
           } else {
             final data = snapshot.data;
@@ -112,15 +112,15 @@ class _CardsPerfilState extends State<CardsPerfil> {
                           alignment: Alignment.centerLeft,
                           margin: const EdgeInsets.only(top: 20),
                           child: Text(
-                            'id: ${id}',
-                            style: TextStyle(
+                            'id: $id',
+                            style: const TextStyle(
                                 fontSize: 17, fontFamily: 'Inter-Medium'),
                           )),
                       Container(
                           alignment: Alignment.centerLeft,
                           child: Text(
-                            'nome: ${nome}',
-                            style: TextStyle(
+                            'nome: $nome',
+                            style: const TextStyle(
                                 fontSize: 17, fontFamily: 'Inter-Medium'),
                           )),
                     ],

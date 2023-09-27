@@ -1,5 +1,6 @@
-import 'dart:async';
+// ignore_for_file: file_names
 
+import 'dart:async';
 import 'package:rota_religiosa/controller/router_settings.dart';
 import 'package:rota_religiosa/controller/solicitaPermissao.dart';
 import 'package:rota_religiosa/model/database.dart';
@@ -86,25 +87,25 @@ class _SplashLoadState extends State<SplashLoad> {
                 },
               )),
           Align(
-              alignment: Alignment(0, 0.7),
+              alignment: const Alignment(0, 0.7),
               child: Container(
                   color: Colors.white.withOpacity(0.9),
                   height: 150,
                   width: MediaQuery.of(context).size.width * 0.8,
                   alignment: Alignment.center,
-                  child: Column(
+                  child: const Column(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        const Text('Projeto de extensão',
+                        Text('Projeto de extensão',
                             style:
                                 TextStyle(fontFamily: 'Kanit', fontSize: 20)),
-                        Container(
+                        SizedBox(
                             height: 70,
                             width: 70,
                             child: Image(
                                 image:
                                     AssetImage('assets/icons/icon_unama.png'))),
-                        const Text('Faculdade Unama',
+                        Text('Faculdade Unama',
                             style:
                                 TextStyle(fontFamily: 'Kanit', fontSize: 20)),
                       ]))),

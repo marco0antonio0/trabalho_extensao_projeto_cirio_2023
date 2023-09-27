@@ -54,10 +54,10 @@ class Widgetmenu extends StatelessWidget {
                 // BTN 3
                 BtnsMenu(
                   mode: true,
-                  titulo: 'Config',
+                  titulo: 'Configuração',
                   ontap: () => {
                     config_rota()
-                        .animacao_2(context, novaPagina: PaginoConfig())
+                        .animacao_2(context, novaPagina: const PaginoConfig())
                   },
                 ),
                 //============================
@@ -113,7 +113,7 @@ class BtnsMenu extends StatelessWidget {
           ),
           child: Text(
             titulo,
-            style: TextStyle(
+            style: const TextStyle(
                 fontFamily: 'Inter', color: Colors.white, fontSize: 20),
           ),
         ),
