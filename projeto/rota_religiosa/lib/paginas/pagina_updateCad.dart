@@ -49,129 +49,132 @@ class _PaginaUpdateCadastroState extends State<PaginaUpdateCadastro> {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-          backgroundColor: const Color(0xffEBE9EC),
-          body: Column(
-            children: [
-              Widgettopbar(),
-              Expanded(
-                  child: SizedBox(
-                      width: MediaQuery.of(context).size.width * 1,
-                      // ignore: prefer_const_constructors
-                      child: SingleChildScrollView(
-                          // ignore: prefer_const_constructors
-                          child: Column(children: [
-                        // =============================================
-                        WidgetTitulo(
-                          titulo: 'CADASTRADO',
-                          height: 75,
-                        ),
-                        //==============================================
-                        // entrada de texto para o campo >>>>  Nome
-                        WidgetInputComponent(
-                          campo: nomeCampo,
-                          titulo: 'Nome completo',
-                          mode: TextInputType.name,
-                        ),
-                        //==============================================
-                        //entrada de texto para o campo >>>>  idade
-                        WidgetInputComponent(
-                          modeFormater: true,
-                          campo: idadeCampo,
-                          titulo: 'Idade',
-                          mode: TextInputType.number,
-                        ),
-                        //==============================================
-                        // cidade de origem >>>> distancia percorrida
-                        WidgetDropComponent(
-                          campo: distanciaCampo,
-                          value: data["distancia"],
-                          titulo: 'Cidade de Origem',
-                        ),
-                        //================================================
-                        // medicamento >>> sim >>>> não
-                        WidgetRadioComponentAtendimento(
-                          titulo: 'Atendimento',
-                        ),
-                        //================================================
-                        // sexo >>> feminio >>> masculino >>>
-                        WidgetRadioComponentSexo(
-                          titulo: 'Sexo',
-                        ),
-                        //================================================
-                        // buttom >> ações ao serem executadas
-                        Widgetbuttom(
-                          titulo: 'Atualizar',
-                          onTap: () async {
-                            if (nomeCampo.text.isNotEmpty &&
-                                idadeCampo.text.isNotEmpty &&
-                                streamDados.opSexo.isNotEmpty &&
-                                streamDados.atendimento.isNotEmpty) {
-                              dynamic datax = {
-                                'nome': nomeCampo.text,
-                                'idade': int.parse(idadeCampo.text),
-                                'atendimento': streamDados.atendimento,
-                                'sexo': streamDados.opSexo,
-                                'distancia': streamDados.cidadex.isEmpty
-                                    ? data['distancia']
-                                    : streamDados.cidadex,
-                                'id': data['id']
-                              };
-                              int result =
-                                  await dbHelper.updateCad(data: datax);
-
-                              if (result != 0) {
-                                // ignore: use_build_context_synchronously
-                                config_rota().animacao_2(context,
-                                    mode: false,
-                                    novaPagina: PaginoMensagemSistemaUpdate(
-                                        erro: false));
-                              } else {
-                                // ignore: use_build_context_synchronously
-                                config_rota().animacao_2(context,
-                                    mode: false,
-                                    novaPagina: PaginoMensagemSistemaUpdate(
-                                        erro: true));
-                              }
-                            }
-                            // config_rota().animacao_2(context,
-                            //     novaPagina: const PaginoMensagemSistemaUpdate())
-                          },
-                        ),
-                        // =============================================
-                        Widgetbuttom(
-                            titulo: 'Deletar',
-                            marginTop: 0,
+    return Container(
+      color: const Color.fromARGB(255, 237, 182, 55),
+      child: SafeArea(
+        child: Scaffold(
+            backgroundColor: const Color(0xffEBE9EC),
+            body: Column(
+              children: [
+                Widgettopbar(),
+                Expanded(
+                    child: SizedBox(
+                        width: MediaQuery.of(context).size.width * 1,
+                        // ignore: prefer_const_constructors
+                        child: SingleChildScrollView(
+                            // ignore: prefer_const_constructors
+                            child: Column(children: [
+                          // =============================================
+                          WidgetTitulo(
+                            titulo: 'CADASTRADO',
+                            height: 75,
+                          ),
+                          //==============================================
+                          // entrada de texto para o campo >>>>  Nome
+                          WidgetInputComponent(
+                            campo: nomeCampo,
+                            titulo: 'Nome completo',
+                            mode: TextInputType.name,
+                          ),
+                          //==============================================
+                          //entrada de texto para o campo >>>>  idade
+                          WidgetInputComponent(
+                            modeFormater: true,
+                            campo: idadeCampo,
+                            titulo: 'Idade',
+                            mode: TextInputType.number,
+                          ),
+                          //==============================================
+                          // cidade de origem >>>> distancia percorrida
+                          WidgetDropComponent(
+                            campo: distanciaCampo,
+                            value: data["distancia"],
+                            titulo: 'Cidade de Origem',
+                          ),
+                          //================================================
+                          // medicamento >>> sim >>>> não
+                          WidgetRadioComponentAtendimento(
+                            titulo: 'Atendimento',
+                          ),
+                          //================================================
+                          // sexo >>> feminio >>> masculino >>>
+                          WidgetRadioComponentSexo(
+                            titulo: 'Sexo',
+                          ),
+                          //================================================
+                          // buttom >> ações ao serem executadas
+                          Widgetbuttom(
+                            titulo: 'Atualizar',
                             onTap: () async {
-                              try {
-                                int results =
-                                    await dbHelper.deleteCad(id: data['id']);
-                                if (results != 0) {
+                              if (nomeCampo.text.isNotEmpty &&
+                                  idadeCampo.text.isNotEmpty &&
+                                  streamDados.opSexo.isNotEmpty &&
+                                  streamDados.atendimento.isNotEmpty) {
+                                dynamic datax = {
+                                  'nome': nomeCampo.text,
+                                  'idade': int.parse(idadeCampo.text),
+                                  'atendimento': streamDados.atendimento,
+                                  'sexo': streamDados.opSexo,
+                                  'distancia': streamDados.cidadex.isEmpty
+                                      ? data['distancia']
+                                      : streamDados.cidadex,
+                                  'id': data['id']
+                                };
+                                int result =
+                                    await dbHelper.updateCad(data: datax);
+
+                                if (result != 0) {
                                   // ignore: use_build_context_synchronously
                                   config_rota().animacao_2(context,
                                       mode: false,
-                                      novaPagina: PaginoMensagemSistemaDelete(
+                                      novaPagina: PaginoMensagemSistemaUpdate(
                                           erro: false));
                                 } else {
+                                  // ignore: use_build_context_synchronously
+                                  config_rota().animacao_2(context,
+                                      mode: false,
+                                      novaPagina: PaginoMensagemSistemaUpdate(
+                                          erro: true));
+                                }
+                              }
+                              // config_rota().animacao_2(context,
+                              //     novaPagina: const PaginoMensagemSistemaUpdate())
+                            },
+                          ),
+                          // =============================================
+                          Widgetbuttom(
+                              titulo: 'Deletar',
+                              marginTop: 0,
+                              onTap: () async {
+                                try {
+                                  int results =
+                                      await dbHelper.deleteCad(id: data['id']);
+                                  if (results != 0) {
+                                    // ignore: use_build_context_synchronously
+                                    config_rota().animacao_2(context,
+                                        mode: false,
+                                        novaPagina: PaginoMensagemSistemaDelete(
+                                            erro: false));
+                                  } else {
+                                    // ignore: use_build_context_synchronously
+                                    config_rota().animacao_2(context,
+                                        mode: false,
+                                        novaPagina: PaginoMensagemSistemaDelete(
+                                            erro: true));
+                                  }
+                                } catch (e) {
                                   // ignore: use_build_context_synchronously
                                   config_rota().animacao_2(context,
                                       mode: false,
                                       novaPagina: PaginoMensagemSistemaDelete(
                                           erro: true));
                                 }
-                              } catch (e) {
-                                // ignore: use_build_context_synchronously
-                                config_rota().animacao_2(context,
-                                    mode: false,
-                                    novaPagina: PaginoMensagemSistemaDelete(
-                                        erro: true));
-                              }
-                            }),
-                        const Widgetbottom()
-                      ]))))
-            ],
-          )),
+                              }),
+                          const Widgetbottom()
+                        ]))))
+              ],
+            )),
+      ),
     );
   }
 }

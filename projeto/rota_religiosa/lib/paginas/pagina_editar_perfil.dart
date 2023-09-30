@@ -40,102 +40,105 @@ class _PaginoEditarpefilState extends State<PaginoEditarpefil> {
   String? erroMensagem;
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-          backgroundColor: const Color(0xffEBE9EC),
-          body: SingleChildScrollView(
-            child: Column(
-              children: [
-                Widgettopbar(),
-                //========================================
-                // Componente Titulo 'EDITAR PERFIL'
-                WidgetTitulo(titulo: 'EDITAR PERFIL'),
-                //========================================
-                //entrada de texto para alteração do campo >>>> 'idnome'
-                WidgetInputComponent(
-                  isDisable: true,
-                  campo: idnomeCampo,
-                  titulo: 'ID fixo',
-                  mode: TextInputType.text,
-                ),
-                //========================================
-                //entrada de texto para alteração do campo >>>> 'Nome'
-                WidgetInputComponent(
-                  campo: nomeCampo,
-                  titulo: 'Email',
-                  mode: TextInputType.emailAddress,
-                ),
-                //========================================
-                //entrada de texto para alteração do campo >>>> 'Telefone'
-                WidgetInputComponent(
-                  campo: telefoneCampo,
-                  titulo: 'Telefone',
-                  mode: TextInputType.phone,
-                ),
-                //========================================
-                //entrada de texto para alteração do campo >>>> 'Bloco'
-                WidgetInputComponent(
-                  campo: blocoCampo,
-                  titulo: 'Bloco',
-                  mode: TextInputType.text,
-                ),
-                WidgetInputComponent(
-                  // password: true,s
-                  campo: passWordServerCampo,
-                  titulo: 'senha servidor',
-                  mode: TextInputType.text,
-                ),
-                erro
-                    ? Text(
-                        erroMensagem!,
-                        style: const TextStyle(color: Colors.red),
-                      )
-                    : Container(),
-                //========================================
-                // Botão de clique para outra pagina >>>>> 'Atualizar'
-                Widgetbuttom(
-                    titulo: 'Atualizar',
-                    onTap: () async {
-                      if (nomeCampo.text.isNotEmpty &&
-                          telefoneCampo.text.isNotEmpty &&
-                          blocoCampo.text.isNotEmpty &&
-                          passWordServerCampo.text.isNotEmpty) {
-                        dynamic y = await dbHelper.selectUser();
-                        dynamic data = {
-                          'id': streamDados.data[0]['id'],
-                          'nome': nomeCampo.text,
-                          'telefone': int.parse(telefoneCampo.text),
-                          'bloco': blocoCampo.text,
-                          'idUsuario': y[0]['idUsuario'],
-                          'pass': passWordServerCampo.text
-                        };
-                        dynamic x = await dbHelper.updateUser(data: data);
+    return Container(
+      color: const Color.fromARGB(255, 237, 182, 55),
+      child: SafeArea(
+        child: Scaffold(
+            backgroundColor: const Color(0xffEBE9EC),
+            body: SingleChildScrollView(
+              child: Column(
+                children: [
+                  Widgettopbar(),
+                  //========================================
+                  // Componente Titulo 'EDITAR PERFIL'
+                  WidgetTitulo(titulo: 'EDITAR PERFIL'),
+                  //========================================
+                  //entrada de texto para alteração do campo >>>> 'idnome'
+                  WidgetInputComponent(
+                    isDisable: true,
+                    campo: idnomeCampo,
+                    titulo: 'ID fixo',
+                    mode: TextInputType.text,
+                  ),
+                  //========================================
+                  //entrada de texto para alteração do campo >>>> 'Nome'
+                  WidgetInputComponent(
+                    campo: nomeCampo,
+                    titulo: 'Email',
+                    mode: TextInputType.emailAddress,
+                  ),
+                  //========================================
+                  //entrada de texto para alteração do campo >>>> 'Telefone'
+                  WidgetInputComponent(
+                    campo: telefoneCampo,
+                    titulo: 'Telefone',
+                    mode: TextInputType.phone,
+                  ),
+                  //========================================
+                  //entrada de texto para alteração do campo >>>> 'Bloco'
+                  WidgetInputComponent(
+                    campo: blocoCampo,
+                    titulo: 'Bloco',
+                    mode: TextInputType.text,
+                  ),
+                  WidgetInputComponent(
+                    // password: true,s
+                    campo: passWordServerCampo,
+                    titulo: 'senha servidor',
+                    mode: TextInputType.text,
+                  ),
+                  erro
+                      ? Text(
+                          erroMensagem!,
+                          style: const TextStyle(color: Colors.red),
+                        )
+                      : Container(),
+                  //========================================
+                  // Botão de clique para outra pagina >>>>> 'Atualizar'
+                  Widgetbuttom(
+                      titulo: 'Atualizar',
+                      onTap: () async {
+                        if (nomeCampo.text.isNotEmpty &&
+                            telefoneCampo.text.isNotEmpty &&
+                            blocoCampo.text.isNotEmpty &&
+                            passWordServerCampo.text.isNotEmpty) {
+                          dynamic y = await dbHelper.selectUser();
+                          dynamic data = {
+                            'id': streamDados.data[0]['id'],
+                            'nome': nomeCampo.text,
+                            'telefone': int.parse(telefoneCampo.text),
+                            'bloco': blocoCampo.text,
+                            'idUsuario': y[0]['idUsuario'],
+                            'pass': passWordServerCampo.text
+                          };
+                          dynamic x = await dbHelper.updateUser(data: data);
 
-                        if (x != 0) {
-                          streamDados.atualizardata([data]);
-                          // ignore: use_build_context_synchronously
-                          config_rota().animacao_2(context,
-                              mode: false,
-                              novaPagina: PaginoMensagemSistemaUpdate());
+                          if (x != 0) {
+                            streamDados.atualizardata([data]);
+                            // ignore: use_build_context_synchronously
+                            config_rota().animacao_2(context,
+                                mode: false,
+                                novaPagina: PaginoMensagemSistemaUpdate());
+                          } else {
+                            setState(() {
+                              erro = true;
+                              erroMensagem =
+                                  'erro ao atualizar seu dados\nse persistir contate o suporte ';
+                            });
+                          }
                         } else {
                           setState(() {
                             erro = true;
                             erroMensagem =
-                                'erro ao atualizar seu dados\nse persistir contate o suporte ';
+                                'preencha todos os campos \npara atualizar os dados';
                           });
                         }
-                      } else {
-                        setState(() {
-                          erro = true;
-                          erroMensagem =
-                              'preencha todos os campos \npara atualizar os dados';
-                        });
-                      }
-                    }),
-                // const Widgetbottom()
-              ],
-            ),
-          )),
+                      }),
+                  // const Widgetbottom()
+                ],
+              ),
+            )),
+      ),
     );
   }
 }

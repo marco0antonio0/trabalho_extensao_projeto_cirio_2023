@@ -14,49 +14,52 @@ class PaginoMensagemSistema_confirm extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: WillPopScope(
-        onWillPop: () async {
-          SystemNavigator.pop();
-          return false;
-        },
-        child: Scaffold(
-            backgroundColor: const Color(0xffEBE9EC),
-            body: Column(
-              children: [
-                Widgettopbar(),
-                Expanded(
-                    child: SizedBox(
-                        width: MediaQuery.of(context).size.width * 1,
-                        // ignore: prefer_const_constructors
-                        child: SingleChildScrollView(
-                            // ignore: prefer_const_constructors
-                            child: Column(children: [
-                          // =============================================
-                          //Mensagem: deseja sair do app?
-                          WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
-                          WidgetMensagemSis(
-                            MensagemSis:
-                                'Voce deseja sair do app? \n O que deseja fazer?',
-                          ),
-                          //=====================================
-                          //Botão: Continuar no App;
-                          Widgetbuttom(
-                            titulo: 'Continuar no app',
-                            onTap: () => Navigator.of(context)
-                                .popUntil((route) => route.isFirst),
-                          ),
-                          //Botão: Sair;
-                          Widgetbuttom(
-                            titulo: 'Sair',
-                            marginTop: 0,
-                            onTap: () => {SystemNavigator.pop()},
-                          ),
-                          // =============================================
-                        ])))),
-                const Widgetbottom()
-              ],
-            )),
+    return Container(
+      color: const Color.fromARGB(255, 237, 182, 55),
+      child: SafeArea(
+        child: WillPopScope(
+          onWillPop: () async {
+            SystemNavigator.pop();
+            return false;
+          },
+          child: Scaffold(
+              backgroundColor: const Color(0xffEBE9EC),
+              body: Column(
+                children: [
+                  Widgettopbar(),
+                  Expanded(
+                      child: SizedBox(
+                          width: MediaQuery.of(context).size.width * 1,
+                          // ignore: prefer_const_constructors
+                          child: SingleChildScrollView(
+                              // ignore: prefer_const_constructors
+                              child: Column(children: [
+                            // =============================================
+                            //Mensagem: deseja sair do app?
+                            WidgetTitulo(titulo: 'MENSAGEM SISTEMA'),
+                            WidgetMensagemSis(
+                              MensagemSis:
+                                  'Voce deseja sair do app? \n O que deseja fazer?',
+                            ),
+                            //=====================================
+                            //Botão: Continuar no App;
+                            Widgetbuttom(
+                              titulo: 'Continuar no app',
+                              onTap: () => Navigator.of(context)
+                                  .popUntil((route) => route.isFirst),
+                            ),
+                            //Botão: Sair;
+                            Widgetbuttom(
+                              titulo: 'Sair',
+                              marginTop: 0,
+                              onTap: () => {SystemNavigator.pop()},
+                            ),
+                            // =============================================
+                          ])))),
+                  const Widgetbottom()
+                ],
+              )),
+        ),
       ),
     );
   }

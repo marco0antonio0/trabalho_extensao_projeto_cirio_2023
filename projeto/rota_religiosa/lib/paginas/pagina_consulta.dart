@@ -10,32 +10,38 @@ class PaginaConsulta extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-          backgroundColor: const Color(0xffEBE9EC),
-          body: Column(
-            children: [
-              Widgettopbar(),
-              Expanded(
-                  child: SizedBox(
-                      width: MediaQuery.of(context).size.width * 1,
-                      // ignore: prefer_const_constructors
-                      child: SingleChildScrollView(
-                        child: Column(children: [
-                          // =============================================
-                          // Componente de titulo >>>>> 'CADASTRADOS'
-                          WidgetTitulo(
-                            titulo: 'CADASTRADOS',
-                            height: 75,
-                          ),
-                          //======================================
-                          //Colocar um 'const' antes da função: ColunaDeCadastrados().
-                          const ColunaDeCadastrados(),
-                          // =============================================
-                        ]),
-                      )))
-            ],
-          )),
+    return Container(
+      color: const Color.fromARGB(255, 237, 182, 55),
+      child: Container(
+        color: const Color.fromARGB(255, 237, 182, 55),
+        child: SafeArea(
+          child: Scaffold(
+              backgroundColor: const Color(0xffEBE9EC),
+              body: Column(
+                children: [
+                  Widgettopbar(),
+                  Expanded(
+                      child: SizedBox(
+                          width: MediaQuery.of(context).size.width * 1,
+                          // ignore: prefer_const_constructors
+                          child: SingleChildScrollView(
+                            child: Column(children: [
+                              // =============================================
+                              // Componente de titulo >>>>> 'CADASTRADOS'
+                              WidgetTitulo(
+                                titulo: 'CADASTRADOS',
+                                height: 75,
+                              ),
+                              //======================================
+                              //Colocar um 'const' antes da função: ColunaDeCadastrados().
+                              const ColunaDeCadastrados(),
+                              // =============================================
+                            ]),
+                          )))
+                ],
+              )),
+        ),
+      ),
     );
   }
 }

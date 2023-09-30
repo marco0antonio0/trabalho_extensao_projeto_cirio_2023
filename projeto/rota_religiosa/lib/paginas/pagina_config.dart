@@ -14,46 +14,50 @@ class PaginoConfig extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-          backgroundColor: const Color(0xffEBE9EC),
-          body: Column(
-            children: [
-              Widgettopbar(),
-              Expanded(
-                  child: SizedBox(
-                      width: MediaQuery.of(context).size.width * 1,
-                      // ignore: prefer_const_constructors
-                      child: SingleChildScrollView(
-                          // ignore: prefer_const_constructors
-                          child: Column(children: [
-                        // =============================================
-                        // Componente Titulo 'CONFIGURAÇÃO'
-                        WidgetTitulo(titulo: 'CONFIGURAÇÃO'),
-                        //===================================
-                        //Botão: 'Editar perfil';
-                        Widgetbuttom(
-                          titulo: 'Editar perfil',
-                          onTap: () => {
-                            config_rota().animacao_2(context,
-                                novaPagina: const PaginoEditarpefil())
-                          },
-                          //===========================================
-                          // Botão: 'Exportar banco';
-                        ),
-                        Widgetbuttom(
-                          titulo: 'Exporta banco',
-                          marginTop: 0,
-                          onTap: () => {
-                            config_rota().animacao_2(context,
-                                novaPagina: const PaginoMensagemSistemaExport())
-                          },
-                        ),
-                        // =============================================
-                      ])))),
-              const Widgetbottom()
-            ],
-          )),
+    return Container(
+      color: const Color.fromARGB(255, 237, 182, 55),
+      child: SafeArea(
+        child: Scaffold(
+            backgroundColor: const Color(0xffEBE9EC),
+            body: Column(
+              children: [
+                Widgettopbar(),
+                Expanded(
+                    child: SizedBox(
+                        width: MediaQuery.of(context).size.width * 1,
+                        // ignore: prefer_const_constructors
+                        child: SingleChildScrollView(
+                            // ignore: prefer_const_constructors
+                            child: Column(children: [
+                          // =============================================
+                          // Componente Titulo 'CONFIGURAÇÃO'
+                          WidgetTitulo(titulo: 'CONFIGURAÇÃO'),
+                          //===================================
+                          //Botão: 'Editar perfil';
+                          Widgetbuttom(
+                            titulo: 'Editar perfil',
+                            onTap: () => {
+                              config_rota().animacao_2(context,
+                                  novaPagina: const PaginoEditarpefil())
+                            },
+                            //===========================================
+                            // Botão: 'Exportar banco';
+                          ),
+                          Widgetbuttom(
+                            titulo: 'Exporta banco',
+                            marginTop: 0,
+                            onTap: () => {
+                              config_rota().animacao_2(context,
+                                  novaPagina:
+                                      const PaginoMensagemSistemaExport())
+                            },
+                          ),
+                          // =============================================
+                        ])))),
+                const Widgetbottom()
+              ],
+            )),
+      ),
     );
   }
 }

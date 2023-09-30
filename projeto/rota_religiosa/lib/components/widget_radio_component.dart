@@ -167,9 +167,9 @@ class _WidgetRadioComponentAtendimentoState
                           Flexible(
                               flex: 100,
                               child: RadioListTile(
-                                title: const Text("Casa_de_placido",
+                                title: const Text("Casa de placido",
                                     style: TextStyle(fontSize: 15)),
-                                value: "Casa_de_placido",
+                                value: "Casa de placido",
                                 groupValue: streamDados.atendimento,
                                 onChanged: (value) {
                                   streamDados.atualizarListaAtendimento(
@@ -199,9 +199,9 @@ class _WidgetRadioComponentAtendimentoState
                           Flexible(
                               flex: 100,
                               child: RadioListTile(
-                                title: const Text("Atendido_nos_dois",
+                                title: const Text("Atendido nos dois",
                                     style: TextStyle(fontSize: 15)),
-                                value: "Atendido_nos_dois",
+                                value: "Atendido nos dois",
                                 groupValue: streamDados.atendimento,
                                 onChanged: (value) {
                                   streamDados.atualizarListaAtendimento(
@@ -214,9 +214,9 @@ class _WidgetRadioComponentAtendimentoState
                           Flexible(
                               flex: 100,
                               child: RadioListTile(
-                                title: const Text("Negou_atendido",
+                                title: const Text("Negou ser atendido",
                                     style: TextStyle(fontSize: 15)),
-                                value: "Negou_atendido",
+                                value: "Negou ser atendido",
                                 groupValue: streamDados.atendimento,
                                 onChanged: (value) {
                                   streamDados.atualizarListaAtendimento(
