@@ -33,19 +33,18 @@ class Widgettopbar extends StatelessWidget {
                 // color: Colors.green,
                 height: 85,
                 width: (MediaQuery.of(context).size.width * 0.3) - 30,
-                padding: const EdgeInsets.symmetric(vertical: 5),
+                padding: const EdgeInsets.symmetric(vertical: 8),
                 //========================================
                 // função de clique do btn
-                child: IconButton(
-                    onPressed: !home
-                        ? () => Navigator.of(context)
-                            .popUntil((route) => route.isFirst)
-                        : null,
-                    icon: const Icon(
-                      size: 50,
-                      Icons.home,
-                      color: Colors.white,
-                    ))
+                child: InkWell(
+                  onTap: !home
+                      ? () => Navigator.of(context)
+                          .popUntil((route) => route.isFirst)
+                      : null,
+                  child: const Image(
+                      fit: BoxFit.fitHeight,
+                      image: AssetImage('assets/icons/icon_home.png')),
+                )
                 //========================================
                 ),
           ),
