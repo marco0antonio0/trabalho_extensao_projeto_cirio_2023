@@ -37,7 +37,7 @@ A tela inicial do aplicativo apresenta um menu de opções simplificado, proporc
 
 - **Cadastro**: Preencha o formulário de cadastro de participante e confirme o cadastro com um simples toque.
 
-- **Configurações**: Personalize a experiência de uso do aplicativo com opções para alterar o nome e o bloco.
+- **Configurações**: Personalize a experiência de uso do aplicativo com opções para **editar** o perfil de usuario e opção para **exporta** os dados para a nuvem .
 
 Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar a experiência do Cirio ainda mais especial para todos os participantes. Vamos fazer parte dessa história!
 
