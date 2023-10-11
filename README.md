@@ -43,7 +43,11 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 
 **Divirta-se cadastrando e compartilhando momentos inesquecíveis no Cirio 2023!**
 
-## Colaboradores
+## Orientador
+
+- [@Erminio Augusto Ramos da Paixao](http://lattes.cnpq.br/3441462516404507)
+
+## Colaboradores Universitarios
 
 - [@Marco Antonio](https://github.com/marco0antonio0)
 - [@Alexsandro Fernandes Nascimento](https://github.com/AlexsandroFernandesNascimento)
@@ -51,6 +55,7 @@ Agradecemos por seu interesse no **Projeto Cirio 2023**. Juntos, podemos tornar 
 - [@Melize Tamires Porto Rocha](https://github.com/melizerocha)
 - [@Felipe Santos de Moura](https://github.com/FelipeMourah)
 - [Matheus Barbosa de Andrade](https://github.com/MatheusBarbosaDeAndrade)
+- Breno Luiz da Silva Ferreira
 - Mateus da Cunha Nunes
 - Rellan Monteiro de Freitas Junior
 - Igor Alexsandro Barbosa da Costa

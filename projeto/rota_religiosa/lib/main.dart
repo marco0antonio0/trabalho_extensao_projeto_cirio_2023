@@ -6,5 +6,3 @@ void main() async {
     home: SplashLoad(),
   ));
 }
-//=================================
-//To alterando aqui.
