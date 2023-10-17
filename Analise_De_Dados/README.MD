@@ -1,6 +1,6 @@
 ## Link para o Dashboard
 
-Acesse o [Dashboard de Análise aqui](./DASHBOARD_POWER_BI/DASHBOARD.pbix?raw=true).
+Acesse o [Dashboard de Análise aqui](./DASHBOARD_POWER_BI/DASHBOARD.pbix).
 
 ## Guia para o Dashboard de Análise
 
