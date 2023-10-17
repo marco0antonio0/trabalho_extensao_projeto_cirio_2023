@@ -17,24 +17,25 @@ Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
    - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
 
 3.**Atualize a Fonte dos dados:**
-   **Passo 1** - Para obter a versão mais recente do dashboard, na parte de cima da tela em "Página inicial", clique em "Transformar dados".
 
-   **Passo 2** - Após isso, uma janela chamada "Editor do Power Query" abrirá informando um erro. (Ignore-o)
+   **- Passo 1**: Para obter a versão mais recente do dashboard, na parte de cima da tela em "Página inicial", clique em "Transformar dados".
 
-   **Passo 3** - Em seguida, clique em Consultas na parte esquerda da janela, e então clique em **DataFolderPath**.
+   **- Passo 2**: Após isso, uma janela chamada "Editor do Power Query" abrirá informando um erro. (Ignore-o)
 
-   **Passo 4** - Copie o caminho absoluto da pasta "Analise_De_Dados"
-      **Passo 4.1** Para conseguir ele:
+   **- Passo 3**: Em seguida, clique em Consultas na parte esquerda da janela, e então clique em **DataFolderPath**.
+
+   **- Passo 4**: Copie o caminho absoluto da pasta "Analise_De_Dados"
+      **- Passo 4.1**: Para conseguir ele:
 
    ![img]( /Analise_De_Dados//images_readme/ClicarEmPasta.png )
 
    ![img]( /Analise_De_Dados//images_readme/Caminho_absoluto.png )
 
-   **Passo 5**- Dentro do retângulo branco com o texto "Pasta Raiz/Análise de dados" coloque o caminho "absoluto" para a pasta "Analise_De_Dados"
+   **- Passo 5**: Dentro do retângulo branco com o texto "Pasta Raiz/Análise de dados" coloque o caminho "absoluto" para a pasta "Analise_De_Dados"
 
    ![img]( /Analise_De_Dados//images_readme/ColarOCaminho.png )
 
-   **Passo 5** Após isso, aperte Enter e **feche a janela pelo X no canto superior direito da tela**.
+   **- Passo 6**: Após isso, aperte Enter e **feche a janela pelo X no canto superior direito da tela**.
 
 ## Conteúdo do Dashboard
 
