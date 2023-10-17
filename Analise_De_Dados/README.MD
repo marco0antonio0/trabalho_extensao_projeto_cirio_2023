@@ -16,7 +16,7 @@ Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 2. **Baixe o Arquivo DASHBOARD.pbix:**
    - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
 
-3.**Atualize a Fonte dos dados:**
+3. **Atualize a Fonte dos dados:**
 
    - **Passo 1**: Para obter a versão mais recente do dashboard, na parte de cima da tela em "Página inicial", clique em "Transformar dados".
 
