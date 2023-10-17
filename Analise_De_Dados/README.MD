@@ -4,17 +4,18 @@
 
 ## Link para o Dashboard
 
-Acesse o [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix).
+Acesse o [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.zip).
 
 ## Guia para o Dashboard de Análise
 
 Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
-1. **Abra o Power BI Desktop:**
+1. **Abra o Power BI Desktop :**
    - Baixe gratuitamente o [Power BI Desktop](https://powerbi.microsoft.com/) e instale-o em seu computador, se ainda não o tiver.
 
-2. **Baixe o Arquivo DASHBOARD.pbix:**
-   - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
+2. **Baixe o Arquivo DASHBOARD.zip:**
+   - Faça o download do arquivo "DASHBOARD.zip" na pasta "DASHBOARD POWER BI" do repositório e extraia o arquivo.
+   - Após isso, abra a pasta e execute o arquivo "DASHBOARD.pbix".
 
 3. **Atualize a Fonte dos dados:**
 
