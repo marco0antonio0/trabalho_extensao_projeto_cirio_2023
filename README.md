@@ -4,6 +4,7 @@
 
 ## Acesso rapido
 
+- [Acesso a analise de dados do cirio 2023](./Analise_De_Dados/README.MD)
 - [Acesso a modelagem de dados](/modelagem_banco_dados/README.md)
 - [Acesso ao projeto app flutter](/projeto/rota_religiosa/)
 - [Acesso ao planejamento](/planejamento_dev/README.md)
