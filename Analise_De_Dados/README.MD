@@ -35,7 +35,7 @@ Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
    ![img]( /Analise_De_Dados//images_readme/ColarOCaminho.png )
 
-   - **Passo 6**: Após isso, aperte Enter e **feche a janela pelo X no canto superior direito da tela**.
+   - **Passo 6**: Por fim, aperte Enter e **feche a janela pelo X no canto superior direito da tela**.
 
 ## Conteúdo do Dashboard
 
