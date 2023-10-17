@@ -1,0 +1,2044 @@
+,nomeUsuario,idade,sexo,distancia
+0,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,São Miguel do Guamá
+2,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Castanhal
+3,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Castanhal
+4,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Belem
+5,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Belem
+6,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Ananindeua
+7,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Belem
+8,Iagozozo@outlook.com,"(49.0, 71.0]",Masculino,Ananindeua
+9,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Castanhal
+10,Iagozozo@outlook.com,"(71.0, 93.0]",Feminino,Marabá
+11,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Ananindeua
+12,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Ananindeua
+13,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Belem
+14,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+15,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+16,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+17,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Belem
+18,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Ananindeua
+19,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Ananindeua
+20,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+21,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Ananindeua
+22,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Ananindeua
+23,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+24,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+25,Iagozozo@outlook.com,"(5, 27.0]",Feminino,Ananindeua
+26,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+27,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+28,Iagozozo@outlook.com,"(5, 27.0]",Feminino,Ananindeua
+29,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+30,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+31,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Ananindeua
+32,Iagozozo@outlook.com,"(5, 27.0]",Feminino,Belem
+33,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Belem
+34,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+35,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Belem
+36,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Castanhal
+37,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Castanhal
+38,Iagozozo@outlook.com,"(5, 27.0]",Feminino,Castanhal
+39,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Belem
+40,Iagozozo@outlook.com,"(5, 27.0]",Feminino,São Miguel do Guamá
+41,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Castanhal
+42,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Castanhal
+43,Iagozozo@outlook.com,"(5, 27.0]",Feminino,Castanhal
+44,Iagozozo@outlook.com,"(5, 27.0]",Masculino,Ananindeua
+45,Iagozozo@outlook.com,"(49.0, 71.0]",Masculino,Castanhal
+46,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Castanhal
+47,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Castanhal
+48,Iagozozo@outlook.com,"(27.0, 49.0]",Feminino,Castanhal
+49,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Castanhal
+50,Iagozozo@outlook.com,"(27.0, 49.0]",Masculino,Castanhal
+51,Iagozozo@outlook.com,"(49.0, 71.0]",Feminino,Santarém
+52,Breno,"(27.0, 49.0]",Masculino,Colares
+53,Breno,"(27.0, 49.0]",Masculino,Ananindeua
+54,Breno,"(27.0, 49.0]",Feminino,Ananindeua
+55,Breno,"(27.0, 49.0]",Feminino,Castanhal
+56,Breno,"(71.0, 93.0]",Feminino,maranhao
+57,Breno,"(49.0, 71.0]",Feminino,Benevides
+58,Breno,"(27.0, 49.0]",Masculino,Belem
+59,Breno,"(27.0, 49.0]",Masculino,Igarapé-Açu
+60,Breno,"(71.0, 93.0]",Feminino,maranhao
+61,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Marituba
+62,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Ourém
+63,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ourém
+64,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Ourém
+65,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+66,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+67,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+68,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+69,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+70,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+71,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+72,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+73,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+74,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+75,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Belem
+76,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+77,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Masculino,Bragança
+78,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+79,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Belem
+80,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Belem
+81,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Belem
+82,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Marituba
+83,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+84,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+85,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+86,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+87,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+88,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+89,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Belem
+90,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+91,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Belem
+92,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Belem
+93,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Belem
+94,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Belem
+95,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+96,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Castanhal
+97,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Castanhal
+98,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+99,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+100,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+101,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+102,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+103,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+104,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Belem
+105,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Belem
+106,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Marituba
+107,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+108,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+109,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+110,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Salinópolis
+111,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+112,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+113,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Castanhal
+114,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Salinópolis
+115,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+116,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Masculino,Belem
+117,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Belem
+118,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Belem
+119,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+120,fabriciocostaodonto@gmail.com,"(5, 27.0]",Masculino,Castanhal
+121,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+122,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+123,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+124,fabriciocostaodonto@gmail.com,"(27.0, 49.0]",Feminino,Belem
+125,fabriciocostaodonto@gmail.com,"(5, 27.0]",Feminino,Belem
+126,fabriciocostaodonto@gmail.com,"(49.0, 71.0]",Feminino,Capanema
+127,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+128,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Belem
+129,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+130,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Belem
+131,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+132,Brendacristine@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+133,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Marituba
+134,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+135,Brendacristine@gmail.com,"(5, 27.0]",Feminino,Marituba
+136,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+137,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Belem
+138,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+139,Brendacristine@gmail.com,"(49.0, 71.0]",Masculino,Belem
+140,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Belem
+141,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Belem
+142,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+143,Brendacristine@gmail.com,"(27.0, 49.0]",Masculino,Salinópolis
+144,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Salinópolis
+145,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Bragança
+146,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Belem
+147,Brendacristine@gmail.com,"(5, 27.0]",Feminino,Castanhal
+148,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Capanema
+149,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Bragança
+150,Brendacristine@gmail.com,"(5, 27.0]",Feminino,Castanhal
+151,Brendacristine@gmail.com,"(5, 27.0]",Feminino,Castanhal
+152,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Belem
+153,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Belem
+154,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Belem
+155,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Belem
+156,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Belem
+157,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+158,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Belem
+159,Brendacristine@gmail.com,"(49.0, 71.0]",Feminino,Belem
+160,Brendacristine@gmail.com,"(5, 27.0]",Masculino,Acará
+161,Brendacristine@gmail.com,"(27.0, 49.0]",Feminino,Igarapé-Açu
+162,Brendacristine@gmail.com,"(27.0, 49.0]",Masculino,Tracuateua
+163,Brendacristine@gmail.com,"(49.0, 71.0]",Masculino,Tracuateua
+164,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Castanhal
+165,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Belem
+166,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+167,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+168,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+169,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Castanhal
+170,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Belem
+171,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Belem
+172,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Curuçá
+173,Henri Deluca Macêdo Ribeiro,"(71.0, 93.0]",Masculino,Belem
+174,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+175,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Salinópolis
+176,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Curuçá
+177,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Barcarena
+178,Henri Deluca Macêdo Ribeiro,"(71.0, 93.0]",Feminino,Castanhal
+179,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Curuçá
+180,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Terra Alta
+181,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Curuçá
+182,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Belem
+183,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+184,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Barcarena
+185,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Barcarena
+186,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Bragança
+187,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Barcarena
+188,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Castanhal
+189,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Bujaru
+190,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Belem
+191,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Barcarena
+192,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Masculino,Ananindeua
+193,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Castanhal
+194,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Salinópolis
+195,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Barcarena
+196,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Barcarena
+197,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Barcarena
+198,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Barcarena
+199,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+200,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+201,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Belem
+202,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Maracanã
+203,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Belem
+204,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Barcarena
+205,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Terra Alta
+206,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Masculino,Belem
+207,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Ananindeua
+208,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Feminino,Bujaru
+209,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Masculino,Belem
+210,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Belem
+211,Henri Deluca Macêdo Ribeiro,"(27.0, 49.0]",Masculino,Bujaru
+212,Henri Deluca Macêdo Ribeiro,"(5, 27.0]",Feminino,Bujaru
+213,Henri Deluca Macêdo Ribeiro,"(49.0, 71.0]",Feminino,Belem
+214,thalisonlob5@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+215,thalisonlob5@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+216,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Barcarena
+217,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Barcarena
+218,thalisonlob5@gmail.com,"(27.0, 49.0]",Masculino,Barcarena
+219,thalisonlob5@gmail.com,"(49.0, 71.0]",Feminino,maranhao
+220,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+221,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Barcarena
+222,thalisonlob5@gmail.com,"(27.0, 49.0]",Masculino,Curuçá
+223,thalisonlob5@gmail.com,"(27.0, 49.0]",Masculino,Acará
+224,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Cametá
+225,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Castanhal
+226,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+227,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+228,thalisonlob5@gmail.com,"(49.0, 71.0]",Masculino,Belem
+229,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Belem
+230,thalisonlob5@gmail.com,"(27.0, 49.0]",Masculino,Barcarena
+231,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Marabá
+232,thalisonlob5@gmail.com,"(49.0, 71.0]",Feminino,Marabá
+233,thalisonlob5@gmail.com,"(5, 27.0]",Feminino,Ourém
+234,thalisonlob5@gmail.com,"(27.0, 49.0]",Feminino,Portel
+235,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Baião
+236,thalisonlob5@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+237,iurivalente.cp@gmail.com,"(27.0, 49.0]",Feminino,Belem
+238,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+239,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+240,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Belem
+241,iurivalente.cp@gmail.com,"(27.0, 49.0]",Feminino,Belem
+242,iurivalente.cp@gmail.com,"(5, 27.0]",Feminino,Bujaru
+243,iurivalente.cp@gmail.com,"(27.0, 49.0]",Feminino,Belem
+244,iurivalente.cp@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+245,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Belem
+246,iurivalente.cp@gmail.com,"(49.0, 71.0]",Masculino,Belem
+247,iurivalente.cp@gmail.com,"(49.0, 71.0]",Feminino,Belem
+248,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Belem
+249,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+250,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Barcarena
+251,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+252,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Belem
+253,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Abaetetuba
+254,iurivalente.cp@gmail.com,"(27.0, 49.0]",Masculino,Belem
+255,iurivalente.cp@gmail.com,"(5, 27.0]",Feminino,Belem
+256,iurivalente.cp@gmail.com,"(5, 27.0]",Feminino,Belem
+257,iurivalente.cp@gmail.com,"(27.0, 49.0]",Feminino,Oriximiná
+258,iurivalente.cp@gmail.com,"(5, 27.0]",Feminino,Belem
+259,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Belem
+260,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Oriximiná
+261,iurivalente.cp@gmail.com,"(5, 27.0]",Masculino,Belem
+262,caique-cost@hotmail.com,"(49.0, 71.0]",Feminino,Belem
+263,caique-cost@hotmail.com,"(49.0, 71.0]",Masculino,Mocajuba
+264,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Belem
+265,caique-cost@hotmail.com,"(71.0, 93.0]",Feminino,Belem
+266,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Ourém
+267,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Belem
+268,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Acará
+269,caique-cost@hotmail.com,"(49.0, 71.0]",Feminino,Belem
+270,caique-cost@hotmail.com,"(5, 27.0]",Feminino,Belem
+271,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Bragança
+272,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Barcarena
+273,caique-cost@hotmail.com,"(49.0, 71.0]",Feminino,Belem
+274,caique-cost@hotmail.com,"(49.0, 71.0]",Feminino,Barcarena
+275,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+276,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Belem
+277,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+278,caique-cost@hotmail.com,"(49.0, 71.0]",Feminino,Abaetetuba
+279,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Bragança
+280,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Castanhal
+281,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Belem
+282,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Belem
+283,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Belem
+284,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Belem
+285,caique-cost@hotmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+286,caique-cost@hotmail.com,"(27.0, 49.0]",Feminino,Belem
+287,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Belem
+288,caique-cost@hotmail.com,"(71.0, 93.0]",Feminino,Castanhal
+289,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Belem
+290,caique-cost@hotmail.com,"(5, 27.0]",Masculino,Altamira
+291,caique-cost@hotmail.com,"(5, 27.0]",Feminino,Belem
+292,mayconb954@gmail.com,"(5, 27.0]",Masculino,Ourém
+293,mayconb954@gmail.com,"(5, 27.0]",Masculino,Ourém
+294,mayconb954@gmail.com,"(5, 27.0]",Masculino,Ourém
+295,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ourém
+296,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ourém
+297,mayconb954@gmail.com,"(5, 27.0]",Masculino,Castanhal
+298,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+299,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+300,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+301,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+302,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+303,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Cametá
+304,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+305,mayconb954@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+306,mayconb954@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+307,mayconb954@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+308,mayconb954@gmail.com,"(49.0, 71.0]",Feminino,Belem
+309,mayconb954@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+310,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+311,mayconb954@gmail.com,"(5, 27.0]",Masculino,Bragança
+312,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+313,mayconb954@gmail.com,"(5, 27.0]",Feminino,Castanhal
+314,mayconb954@gmail.com,"(5, 27.0]",Feminino,Belem
+315,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+316,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+317,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+318,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+319,mayconb954@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+320,mayconb954@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+321,mayconb954@gmail.com,"(5, 27.0]",Masculino,Castanhal
+322,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Belem
+323,mayconb954@gmail.com,"(5, 27.0]",Masculino,Marapanim
+324,mayconb954@gmail.com,"(5, 27.0]",Masculino,Castanhal
+325,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Belem
+326,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+327,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+328,mayconb954@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+329,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+330,mayconb954@gmail.com,"(5, 27.0]",Masculino,Belem
+331,mayconb954@gmail.com,"(49.0, 71.0]",Masculino,Igarapé-Açu
+332,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Belem
+333,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Salinópolis
+334,mayconb954@gmail.com,"(49.0, 71.0]",Masculino,Salinópolis
+335,mayconb954@gmail.com,"(5, 27.0]",Feminino,Salinópolis
+336,mayconb954@gmail.com,"(5, 27.0]",Feminino,Belem
+337,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Belem
+338,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+339,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+340,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Belem
+341,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+342,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+343,mayconb954@gmail.com,"(5, 27.0]",Feminino,Castanhal
+344,mayconb954@gmail.com,"(5, 27.0]",Feminino,Santa Maria do Pará
+345,mayconb954@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+346,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Belem
+347,mayconb954@gmail.com,"(49.0, 71.0]",Feminino,São João de Pirabas
+348,mayconb954@gmail.com,"(71.0, 93.0]",Masculino,Santa Bárbara do Pará
+349,mayconb954@gmail.com,"(49.0, 71.0]",Masculino,Capanema
+350,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+351,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+352,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Tracuateua
+353,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Capanema
+354,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Belem
+355,mayconb954@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+356,mayconb954@gmail.com,"(27.0, 49.0]",Feminino,Abaetetuba
+357,wallaceney.2005@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+358,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+359,wallaceney.2005@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+360,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,São Miguel do Guamá
+361,wallaceney.2005@gmail.com,"(27.0, 49.0]",Feminino,São Miguel do Guamá
+362,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Barcarena
+363,wallaceney.2005@gmail.com,"(27.0, 49.0]",Masculino,Barcarena
+364,wallaceney.2005@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+365,wallaceney.2005@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+366,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Belem
+367,wallaceney.2005@gmail.com,"(49.0, 71.0]",Feminino,Belem
+368,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+369,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+370,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Belem
+371,wallaceney.2005@gmail.com,"(27.0, 49.0]",Masculino,Belem
+372,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Belem
+373,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Castanhal
+374,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Belem
+375,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+376,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+377,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+378,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+379,wallaceney.2005@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+380,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+381,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+382,wallaceney.2005@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+383,wallaceney.2005@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+384,wallaceney.2005@gmail.com,"(27.0, 49.0]",Masculino,maranhao
+385,alexfernandesprivado@gmail.com,"(49.0, 71.0]",Feminino,Belem
+386,alexfernandesprivado@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+387,alexfernandesprivado@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+388,alexfernandesprivado@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+389,alexfernandesprivado@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+390,alexfernandesprivado@gmail.com,"(5, 27.0]",Masculino,Breu Branco
+391,alexfernandesprivado@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+392,moreiraleonardo0707@gmail.com,"(5, 27.0]",Masculino,Bujaru
+393,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+394,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Santo Antônio do Tauá
+395,moreiraleonardo0707@gmail.com,"(5, 27.0]",Feminino,Igarapé-Açu
+396,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Feminino,Peixe-Boi
+397,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Feminino,Bujaru
+398,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+399,moreiraleonardo0707@gmail.com,"(5, 27.0]",Masculino,Marituba
+400,moreiraleonardo0707@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+401,moreiraleonardo0707@gmail.com,"(5, 27.0]",Feminino,Viseu
+402,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+403,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Masculino,Bragança
+404,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Belem
+405,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Acará
+406,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+407,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Belem
+408,moreiraleonardo0707@gmail.com,"(5, 27.0]",Masculino,Bujaru
+409,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+410,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Masculino,Capanema
+411,moreiraleonardo0707@gmail.com,"(5, 27.0]",Masculino,São Domingos do Capim
+412,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+413,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Santo Antônio do Tauá
+414,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Feminino,São Domingos do Capim
+415,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,São Domingos do Capim
+416,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Belem
+417,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Belem
+418,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Masculino,Belem
+419,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Masculino,Belem
+420,moreiraleonardo0707@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+421,moreiraleonardo0707@gmail.com,"(49.0, 71.0]",Masculino,Belem
+422,divinomc@gmail.com,"(49.0, 71.0]",Feminino,Altamira
+423,divinomc@gmail.com,"(49.0, 71.0]",Feminino,Belem
+424,divinomc@gmail.com,"(27.0, 49.0]",Masculino,Abaetetuba
+425,divinomc@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+426,divinomc@gmail.com,"(27.0, 49.0]",Feminino,Igarapé-Miri
+427,divinomc@gmail.com,"(27.0, 49.0]",Masculino,Igarapé-Miri
+428,divinomc@gmail.com,"(5, 27.0]",Feminino,Belem
+429,divinomc@gmail.com,"(5, 27.0]",Masculino,Belem
+430,divinomc@gmail.com,"(49.0, 71.0]",Feminino,Belem
+431,divinomc@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+432,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+433,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+434,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+435,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+436,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+437,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+438,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+439,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Abaetetuba
+440,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+441,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+442,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+443,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+444,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+445,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+446,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+447,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+448,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+449,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+450,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+451,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+452,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+453,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+454,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+455,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Masculino,Belem
+456,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+457,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+458,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+459,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+460,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+461,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+462,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+463,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+464,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+465,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+466,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+467,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+468,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Belem
+469,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Benevides
+470,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+471,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+472,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+473,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+474,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+475,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+476,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+477,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+478,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+479,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+480,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+481,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+482,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+483,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+484,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+485,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+486,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+487,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Belem
+488,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Barcarena
+489,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Feminino,Belem
+490,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+491,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Belem
+492,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+493,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+494,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Masculino,Belem
+495,mattpiinheiiro1999@gmail.com,"(5, 27.0]",Masculino,Belem
+496,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+497,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Belem
+498,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+499,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+500,mattpiinheiiro1999@gmail.com,"(27.0, 49.0]",Feminino,Belem
+501,mattpiinheiiro1999@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+502,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Belem
+503,matheusbiel635@gmail.com,"(5, 27.0]",Outros,Ananindeua
+504,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+505,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Capanema
+506,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+507,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Belem
+508,matheusbiel635@gmail.com,"(5, 27.0]",Masculino,Belem
+509,matheusbiel635@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+510,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Belem
+511,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+512,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Belem
+513,matheusbiel635@gmail.com,"(5, 27.0]",Outros,Ananindeua
+514,matheusbiel635@gmail.com,"(5, 27.0]",Masculino,Bujaru
+515,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+516,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Bujaru
+517,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+518,matheusbiel635@gmail.com,"(27.0, 49.0]",Feminino,Belem
+519,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+520,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Abaetetuba
+521,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Belem
+522,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+523,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+524,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+525,matheusbiel635@gmail.com,"(49.0, 71.0]",Masculino,Belem
+526,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+527,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Mãe do Rio
+528,matheusbiel635@gmail.com,"(27.0, 49.0]",Feminino,Abaetetuba
+529,matheusbiel635@gmail.com,"(5, 27.0]",Feminino,maranhao
+530,matheusbiel635@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+531,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+532,matheusbiel635@gmail.com,"(27.0, 49.0]",Masculino,Belem
+533,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+534,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Belem
+535,matheusbiel635@gmail.com,"(49.0, 71.0]",Feminino,Bagre
+536,beatrizrochalisboa@gmail.com,"(49.0, 71.0]",Feminino,Belem
+537,beatrizrochalisboa@gmail.com,"(5, 27.0]",Feminino,Bujaru
+538,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Bujaru
+539,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Curuçá
+540,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+541,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Bujaru
+542,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Bujaru
+543,beatrizrochalisboa@gmail.com,"(5, 27.0]",Feminino,Belem
+544,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Bujaru
+545,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Bujaru
+546,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+547,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+548,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+549,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+550,beatrizrochalisboa@gmail.com,"(5, 27.0]",Masculino,Concórdia do Pará
+551,beatrizrochalisboa@gmail.com,"(27.0, 49.0]",Feminino,Curuçá
+552,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+553,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Igarapé-Açu
+554,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Igarapé-Açu
+555,acernitro5.82@gmail.com,"(49.0, 71.0]",Masculino,Bragança
+556,acernitro5.82@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+557,acernitro5.82@gmail.com,"(27.0, 49.0]",Outros,Barcarena
+558,acernitro5.82@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+559,acernitro5.82@gmail.com,"(49.0, 71.0]",Feminino,Barcarena
+560,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+561,acernitro5.82@gmail.com,"(27.0, 49.0]",Feminino,Belem
+562,acernitro5.82@gmail.com,"(49.0, 71.0]",Feminino,Belem
+563,acernitro5.82@gmail.com,"(27.0, 49.0]",Feminino,Barcarena
+564,acernitro5.82@gmail.com,"(49.0, 71.0]",Masculino,Igarapé-Açu
+565,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+566,acernitro5.82@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+567,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Ourém
+568,acernitro5.82@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+569,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+570,eusouomendes@gmail.com,"(71.0, 93.0]",Feminino,Ananindeua
+571,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+572,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+573,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Marapanim
+574,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+575,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+576,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Belem
+577,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Santo Antônio do Tauá
+578,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Santo Antônio do Tauá
+579,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Santo Antônio do Tauá
+580,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Igarapé-Açu
+581,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Peixe-Boi
+582,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+583,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Marituba
+584,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Marituba
+585,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Belem
+586,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Breves
+587,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Belem
+588,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+589,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+590,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Viseu
+591,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Viseu
+592,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Acará
+593,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Bujaru
+594,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+595,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Bagre
+596,eusouomendes@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+597,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Água Azul do Norte
+598,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+599,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Belem
+600,eusouomendes@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+601,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Bujaru
+602,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Bragança
+603,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+604,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+605,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+606,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Belem
+607,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Bujaru
+608,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+609,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+610,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Bujaru
+611,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+612,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Belem
+613,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+614,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Belem
+615,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Belem
+616,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Belem
+617,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Belem
+618,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Igarapé-Açu
+619,eusouomendes@gmail.com,"(5, 27.0]",Feminino,Igarapé-Açu
+620,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+621,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Igarapé-Açu
+622,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+623,eusouomendes@gmail.com,"(5, 27.0]",Masculino,Marapanim
+624,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+625,eusouomendes@gmail.com,"(27.0, 49.0]",Masculino,Belem
+626,eusouomendes@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+627,marco0antonio0@outlook.com,"(49.0, 71.0]",Feminino,Ananindeua
+628,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+629,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Belem
+630,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Maracanã
+631,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+632,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+633,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Monte Alegre
+634,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+635,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Abaetetuba
+636,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Vigia
+637,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+638,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Capitão Poço
+639,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Salinópolis
+640,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Vigia
+641,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Santo Antônio do Tauá
+642,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Bragança
+643,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+644,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Vigia
+645,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+646,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Vigia
+647,ph.leao16@gmail.com,"(49.0, 71.0]",Masculino,Benevides
+648,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+649,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Cametá
+650,ph.leao16@gmail.com,"(49.0, 71.0]",Masculino,Bujaru
+651,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Capitão Poço
+652,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Capitão Poço
+653,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+654,ph.leao16@gmail.com,"(5, 27.0]",Masculino,São Francisco do Pará
+655,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Belem
+656,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Santa Bárbara do Pará
+657,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+658,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Santa Bárbara do Pará
+659,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+660,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+661,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+662,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Maracanã
+663,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+664,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Belem
+665,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+666,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Castanhal
+667,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Marapanim
+668,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Castanhal
+669,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Anajás
+670,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+671,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Belem
+672,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Belem
+673,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Belem
+674,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Vigia
+675,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+676,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Belem
+677,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Marapanim
+678,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+679,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+680,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Belem
+681,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+682,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+683,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Belem
+684,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Maracanã
+685,ph.leao16@gmail.com,"(49.0, 71.0]",Masculino,Soure
+686,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+687,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+688,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Belem
+689,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+690,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Monte Alegre
+691,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Abaetetuba
+692,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+693,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Salinópolis
+694,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Santo Antônio do Tauá
+695,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+696,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+697,ph.leao16@gmail.com,"(49.0, 71.0]",Masculino,Benevides
+698,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Cametá
+699,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Capitão Poço
+700,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+701,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Belem
+702,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+703,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+704,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+705,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+706,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+707,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Marapanim
+708,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Anajás
+709,ph.leao16@gmail.com,"(5, 27.0]",Feminino,Belem
+710,ph.leao16@gmail.com,"(49.0, 71.0]",Feminino,Belem
+711,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+712,ph.leao16@gmail.com,"(27.0, 49.0]",Masculino,Marapanim
+713,ph.leao16@gmail.com,"(5, 27.0]",Masculino,Castanhal
+714,ph.leao16@gmail.com,"(27.0, 49.0]",Feminino,Belem
+715,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Belem
+716,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Maracanã
+717,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+718,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Capitão Poço
+719,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Vigia
+720,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+721,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+722,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+723,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Vigia
+724,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+725,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Maracanã
+726,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Maracanã
+727,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+728,bm907747@gmail.com,"(5, 27.0]",Feminino,Belem
+729,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+730,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+731,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+732,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+733,bm907747@gmail.com,"(5, 27.0]",Masculino,Maracanã
+734,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+735,bm907747@gmail.com,"(5, 27.0]",Masculino,Belem
+736,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Vigia
+737,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+738,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Vigia
+739,bm907747@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+740,bm907747@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+741,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+742,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Belem
+743,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+744,bm907747@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+745,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+746,bm907747@gmail.com,"(5, 27.0]",Masculino,Belem
+747,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+748,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+749,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+750,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+751,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Belem
+752,bm907747@gmail.com,"(5, 27.0]",Feminino,Belem
+753,bm907747@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+754,bm907747@gmail.com,"(5, 27.0]",Feminino,Belem
+755,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+756,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Abaetetuba
+757,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Abaetetuba
+758,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+759,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+760,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+761,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Belem
+762,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Capanema
+763,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+764,bm907747@gmail.com,"(5, 27.0]",Feminino,Castanhal
+765,bm907747@gmail.com,"(5, 27.0]",Feminino,Castanhal
+766,bm907747@gmail.com,"(5, 27.0]",Feminino,Castanhal
+767,bm907747@gmail.com,"(5, 27.0]",Feminino,Castanhal
+768,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Belem
+769,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Belem
+770,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Belem
+771,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Cametá
+772,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+773,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+774,bm907747@gmail.com,"(27.0, 49.0]",Masculino,Belem
+775,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+776,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+777,bm907747@gmail.com,"(49.0, 71.0]",Feminino,Belem
+778,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+779,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+780,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+781,bm907747@gmail.com,"(5, 27.0]",Feminino,Castanhal
+782,bm907747@gmail.com,"(27.0, 49.0]",Feminino,Anajás
+783,bm907747@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+784,bm907747@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+785,bm907747@gmail.com,"(5, 27.0]",Masculino,Castanhal
+786,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+787,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+788,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+789,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Belem
+790,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+791,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+792,luizzinho787@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+793,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+794,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+795,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Belem
+796,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+797,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+798,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+799,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+800,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+801,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Belem
+802,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+803,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Belem
+804,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+805,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+806,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Belem
+807,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Belem
+808,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Ourém
+809,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Ourém
+810,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+811,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Belem
+812,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+813,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Castanhal
+814,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+815,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+816,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+817,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Marituba
+818,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+819,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Belem
+820,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+821,luizzinho787@gmail.com,"(49.0, 71.0]",Feminino,Belem
+822,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+823,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+824,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+825,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+826,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+827,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+828,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+829,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Salinópolis
+830,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Castanhal
+831,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+832,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Belem
+833,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Belem
+834,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Belem
+835,luizzinho787@gmail.com,"(49.0, 71.0]",Feminino,Marituba
+836,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Marituba
+837,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Belem
+838,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+839,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+840,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Benevides
+841,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Benevides
+842,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Benevides
+843,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Benevides
+844,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+845,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+846,luizzinho787@gmail.com,"(5, 27.0]",Masculino,São Miguel do Guamá
+847,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Salinópolis
+848,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,São Miguel do Guamá
+849,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+850,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+851,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Tracuateua
+852,luizzinho787@gmail.com,"(49.0, 71.0]",Feminino,Bragança
+853,luizzinho787@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+854,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Castanhal
+855,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+856,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Belem
+857,luizzinho787@gmail.com,"(27.0, 49.0]",Feminino,Belem
+858,luizzinho787@gmail.com,"(5, 27.0]",Feminino,Belem
+859,luizzinho787@gmail.com,"(5, 27.0]",Masculino,Belem
+860,luizzinho787@gmail.com,"(27.0, 49.0]",Masculino,Tracuateua
+861,vitorgames11br@gmail.com,"(27.0, 49.0]",Masculino,Uruará
+862,vitorgames11br@gmail.com,"(5, 27.0]",Feminino,Igarapé-Açu
+863,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+864,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+865,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+866,vitorgames11br@gmail.com,"(27.0, 49.0]",Masculino,Igarapé-Açu
+867,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+868,vitorgames11br@gmail.com,"(49.0, 71.0]",Feminino,maranhao
+869,vitorgames11br@gmail.com,"(49.0, 71.0]",Feminino,maranhao
+870,vitorgames11br@gmail.com,"(5, 27.0]",Masculino,Maracanã
+871,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+872,vitorgames11br@gmail.com,"(27.0, 49.0]",Masculino,Belem
+873,vitorgames11br@gmail.com,"(5, 27.0]",Masculino,Barcarena
+874,vitorgames11br@gmail.com,"(49.0, 71.0]",Feminino,maranhao
+875,vitorgames11br@gmail.com,"(5, 27.0]",Masculino,Belem
+876,vitorgames11br@gmail.com,"(49.0, 71.0]",Masculino,maranhao
+877,vitorgames11br@gmail.com,"(5, 27.0]",Feminino,Belem
+878,vitorgames11br@gmail.com,"(49.0, 71.0]",Feminino,Belem
+879,vitorgames11br@gmail.com,"(49.0, 71.0]",Feminino,Bragança
+880,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+881,vitorgames11br@gmail.com,"(27.0, 49.0]",Masculino,Belem
+882,vitorgames11br@gmail.com,"(5, 27.0]",Feminino,Bujaru
+883,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+884,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+885,vitorgames11br@gmail.com,"(27.0, 49.0]",Feminino,Belem
+886,vitorgames11br@gmail.com,"(5, 27.0]",Masculino,Belem
+887,vitorgames11br@gmail.com,"(27.0, 49.0]",Masculino,Belem
+888,vitorgames11br@gmail.com,"(5, 27.0]",Masculino,Igarapé-Açu
+889,hermespaixao,"(5, 27.0]",Feminino,Ananindeua
+890,hermespaixao,"(27.0, 49.0]",Masculino,Castanhal
+891,hermespaixao,"(5, 27.0]",Masculino,Castanhal
+892,hermespaixao,"(49.0, 71.0]",Feminino,Ananindeua
+893,hermespaixao,"(27.0, 49.0]",Feminino,Ananindeua
+894,hermespaixao,"(27.0, 49.0]",Masculino,Ananindeua
+895,hermespaixao,"(27.0, 49.0]",Masculino,Ananindeua
+896,hermespaixao,"(5, 27.0]",Feminino,Ananindeua
+897,hermespaixao,"(49.0, 71.0]",Feminino,Ananindeua
+898,hermespaixao,"(49.0, 71.0]",Feminino,Ananindeua
+899,hermespaixao,"(27.0, 49.0]",Feminino,Ananindeua
+900,hermespaixao,"(5, 27.0]",Feminino,Ananindeua
+901,hermespaixao,"(5, 27.0]",Masculino,Marituba
+902,hermespaixao,"(27.0, 49.0]",Masculino,Marituba
+903,hermespaixao,"(27.0, 49.0]",Feminino,Marituba
+904,hermespaixao,"(27.0, 49.0]",Feminino,Ananindeua
+905,hermespaixao,"(5, 27.0]",Feminino,Ananindeua
+906,hermespaixao,"(5, 27.0]",Feminino,Belem
+907,hermespaixao,"(5, 27.0]",Masculino,Marituba
+908,hermespaixao,"(27.0, 49.0]",Masculino,Ananindeua
+909,hermespaixao,"(5, 27.0]",Feminino,Castanhal
+910,hermespaixao,"(27.0, 49.0]",Feminino,Castanhal
+911,hermespaixao,"(27.0, 49.0]",Masculino,Castanhal
+912,hermespaixao,"(27.0, 49.0]",Feminino,Ananindeua
+913,hermespaixao,"(27.0, 49.0]",Feminino,Belem
+914,hermespaixao,"(5, 27.0]",Feminino,Belem
+915,hermespaixao,"(27.0, 49.0]",Feminino,Belem
+916,hermespaixao,"(5, 27.0]",Masculino,Castanhal
+917,hermespaixao,"(27.0, 49.0]",Feminino,Ananindeua
+918,hermespaixao,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+919,hermespaixao,"(49.0, 71.0]",Masculino,Capanema
+920,hermespaixao,"(5, 27.0]",Masculino,Castanhal
+921,hermespaixao,"(27.0, 49.0]",Masculino,Abaetetuba
+922,hermespaixao,"(27.0, 49.0]",Feminino,Castanhal
+923,hermespaixao,"(27.0, 49.0]",Feminino,Vigia
+924,hermespaixao,"(5, 27.0]",Feminino,Castanhal
+925,hermespaixao,"(5, 27.0]",Feminino,Ananindeua
+926,hermespaixao,"(5, 27.0]",Masculino,Ananindeua
+927,marco.antonio.test,"(5, 27.0]",Masculino,Ananindeua
+928,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+929,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Belem
+930,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+931,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+932,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+933,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+934,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Belem
+935,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+936,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+937,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Belem
+938,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Belem
+939,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+940,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+941,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+942,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Belem
+943,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+944,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Belem
+945,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+946,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+947,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+948,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+949,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+950,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+951,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+952,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+953,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+954,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+955,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+956,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+957,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+958,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+959,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Gurupá
+960,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+961,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Castanhal
+962,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+963,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+964,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+965,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Castanhal
+966,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+967,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+968,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+969,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+970,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+971,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Irituia
+972,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+973,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+974,igorcosta32536@gmail.com,"(5, 27.0]",Outros,São João de Pirabas
+975,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+976,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Igarapé-Açu
+977,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+978,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+979,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+980,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+981,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+982,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+983,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+984,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+985,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Belem
+986,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+987,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+988,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+989,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+990,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Marituba
+991,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Belem
+992,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+993,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+994,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Belem
+995,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Belem
+996,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+997,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+998,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+999,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1000,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1001,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1002,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1003,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1004,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1005,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1006,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Igarapé-Açu
+1007,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Benevides
+1008,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1009,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1010,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1011,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1012,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1013,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1014,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1015,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1016,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1017,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Benevides
+1018,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1019,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+1020,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1021,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1022,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1023,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1024,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1025,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1026,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Bujaru
+1027,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1028,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1029,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1030,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1031,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1032,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1033,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1034,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Marituba
+1035,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Marituba
+1036,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Marituba
+1037,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1038,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1039,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Marituba
+1040,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Marituba
+1041,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1042,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Soure
+1043,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1044,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1045,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+1046,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1047,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Vigia
+1048,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Marituba
+1049,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Igarapé-Açu
+1050,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Benevides
+1051,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1052,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Moju
+1053,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1054,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Moju
+1055,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1056,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1057,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1058,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1059,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Moju
+1060,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1061,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Benevides
+1062,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1063,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Moju
+1064,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Moju
+1065,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1066,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Santa Bárbara do Pará
+1067,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1068,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Moju
+1069,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1070,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1071,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1072,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1073,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1074,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Belem
+1075,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Benevides
+1076,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Benevides
+1077,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Benevides
+1078,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Benevides
+1079,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Santa Bárbara do Pará
+1080,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Benevides
+1081,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1082,igorcosta32536@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1083,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1084,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1085,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1086,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Moju
+1087,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Moju
+1088,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+1089,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Santa Bárbara do Pará
+1090,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1091,igorcosta32536@gmail.com,"(5, 27.0]",Masculino,Belem
+1092,igorcosta32536@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1093,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1094,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1095,igorcosta32536@gmail.com,"(5, 27.0]",Feminino,Moju
+1096,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1097,igorcosta32536@gmail.com,"(27.0, 49.0]",Feminino,Santa Bárbara do Pará
+1098,igorcosta32536@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1099,Thiago.,"(49.0, 71.0]",Feminino,Belem
+1100,Thiago.,"(49.0, 71.0]",Masculino,Belem
+1101,Thiago.,"(49.0, 71.0]",Feminino,Paragominas
+1102,Thiago.,"(27.0, 49.0]",Feminino,Paragominas
+1103,Thiago.,"(27.0, 49.0]",Feminino,Paragominas
+1104,Thiago.,"(27.0, 49.0]",Masculino,Paragominas
+1105,Thiago.,"(27.0, 49.0]",Feminino,Paragominas
+1106,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1107,Thiago.,"(5, 27.0]",Masculino,Paragominas
+1108,Thiago.,"(49.0, 71.0]",Feminino,Belem
+1109,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1110,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1111,Thiago.,"(27.0, 49.0]",Masculino,Castanhal
+1112,Thiago.,"(49.0, 71.0]",Feminino,Belem
+1113,Thiago.,"(27.0, 49.0]",Feminino,Castanhal
+1114,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1115,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1116,Thiago.,"(5, 27.0]",Masculino,Castanhal
+1117,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1118,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1119,Thiago.,"(27.0, 49.0]",Masculino,Castanhal
+1120,Thiago.,"(27.0, 49.0]",Feminino,Belem
+1121,Thiago.,"(27.0, 49.0]",Feminino,Castanhal
+1122,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1123,Thiago.,"(71.0, 93.0]",Masculino,Belem
+1124,Thiago.,"(49.0, 71.0]",Masculino,Ananindeua
+1125,Thiago.,"(27.0, 49.0]",Masculino,Castanhal
+1126,Thiago.,"(49.0, 71.0]",Feminino,Bujaru
+1127,Thiago.,"(49.0, 71.0]",Masculino,Bujaru
+1128,Thiago.,"(49.0, 71.0]",Feminino,Bujaru
+1129,Thiago.,"(27.0, 49.0]",Feminino,Bujaru
+1130,Thiago.,"(27.0, 49.0]",Feminino,Bujaru
+1131,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1132,Thiago.,"(27.0, 49.0]",Masculino,São Francisco do Pará
+1133,Thiago.,"(27.0, 49.0]",Feminino,Belem
+1134,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1135,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1136,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1137,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1138,Thiago.,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1139,Thiago.,"(27.0, 49.0]",Masculino,Santo Antônio do Tauá
+1140,Thiago.,"(27.0, 49.0]",Masculino,São Francisco do Pará
+1141,Thiago.,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1142,Thiago.,"(27.0, 49.0]",Feminino,Belem
+1143,Thiago.,"(27.0, 49.0]",Feminino,Belem
+1144,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1145,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1146,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1147,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1148,Thiago.,"(27.0, 49.0]",Masculino,Marituba
+1149,Thiago.,"(5, 27.0]",Masculino,Marituba
+1150,Thiago.,"(5, 27.0]",Masculino,Marituba
+1151,Thiago.,"(5, 27.0]",Feminino,Marituba
+1152,Thiago.,"(5, 27.0]",Feminino,Marituba
+1153,Thiago.,"(5, 27.0]",Masculino,Marituba
+1154,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1155,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1156,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1157,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1158,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1159,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1160,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1161,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1162,Thiago.,"(49.0, 71.0]",Masculino,Ananindeua
+1163,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1164,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1165,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1166,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1167,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1168,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1169,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1170,Thiago.,"(27.0, 49.0]",Feminino,Abaetetuba
+1171,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1172,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1173,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1174,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1175,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1176,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1177,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1178,Thiago.,"(5, 27.0]",Masculino,Castanhal
+1179,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1180,Thiago.,"(49.0, 71.0]",Feminino,Castanhal
+1181,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1182,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1183,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1184,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1185,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1186,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1187,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1188,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1189,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1190,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1191,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1192,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1193,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1194,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1195,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1196,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1197,Thiago.,"(27.0, 49.0]",Masculino,Bujaru
+1198,Thiago.,"(27.0, 49.0]",Feminino,Bujaru
+1199,Thiago.,"(27.0, 49.0]",Feminino,Bujaru
+1200,Thiago.,"(27.0, 49.0]",Masculino,Inhangapi
+1201,Thiago.,"(27.0, 49.0]",Masculino,Inhangapi
+1202,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1203,Thiago.,"(49.0, 71.0]",Masculino,Ananindeua
+1204,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1205,Thiago.,"(49.0, 71.0]",Masculino,Ananindeua
+1206,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1207,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1208,Thiago.,"(49.0, 71.0]",Feminino,Ananindeua
+1209,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1210,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1211,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1212,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1213,Thiago.,"(27.0, 49.0]",Masculino,Belem
+1214,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1215,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1216,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1217,Thiago.,"(5, 27.0]",Masculino,Ananindeua
+1218,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1219,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1220,Thiago.,"(27.0, 49.0]",Masculino,Ananindeua
+1221,Thiago.,"(27.0, 49.0]",Feminino,Ananindeua
+1222,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1223,Thiago.,"(49.0, 71.0]",Masculino,Ananindeua
+1224,Thiago.,"(5, 27.0]",Feminino,Ananindeua
+1225,Thiago.,"(27.0, 49.0]",Feminino,Belem
+1226,Thiago.,"(5, 27.0]",Masculino,Belem
+1227,Thiago.,"(5, 27.0]",Masculino,Marituba
+1228,Thiago.,"(27.0, 49.0]",Masculino,Marituba
+1229,Thiago.,"(27.0, 49.0]",Feminino,Marituba
+1230,Thiago.,"(5, 27.0]",Masculino,Benevides
+1231,Thiago.,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+1232,Thiago.,"(27.0, 49.0]",Feminino,Moju
+1233,Thiago.,"(27.0, 49.0]",Feminino,Moju
+1234,Thiago.,"(27.0, 49.0]",Feminino,Moju
+1235,Thiago.,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1236,Thiago.,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1237,Thiago.,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1238,Thiago.,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1239,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1240,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Paragominas
+1241,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1242,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ulianópolis
+1243,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1244,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1245,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Paragominas
+1246,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1247,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1248,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Paragominas
+1249,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1250,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1251,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1252,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+1253,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1254,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,maranhao
+1255,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1256,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1257,mathandrade658@gmail.com,"(5, 27.0]",Masculino,São Francisco do Pará
+1258,mathandrade658@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1259,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+1260,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Novo Repartimento
+1261,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1262,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1263,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1264,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1265,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1266,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1267,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1268,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1269,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1270,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+1271,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1272,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1273,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1274,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1275,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1276,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1277,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Bragança
+1278,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1279,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1280,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1281,mathandrade658@gmail.com,"(5, 27.0]",Feminino,São Francisco do Pará
+1282,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Marituba
+1283,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1284,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1285,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Belem
+1286,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1287,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Belem
+1288,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1289,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Marituba
+1290,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1291,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Belem
+1292,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1293,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Belem
+1294,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1295,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1296,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1297,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,São Francisco do Pará
+1298,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1299,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1300,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1301,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1302,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1303,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1304,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1305,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1306,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1307,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1308,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1309,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1310,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1311,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1312,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Belem
+1313,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1314,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Marituba
+1315,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1316,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Marituba
+1317,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Marituba
+1318,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1319,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1320,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Concórdia do Pará
+1321,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Concórdia do Pará
+1322,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Concórdia do Pará
+1323,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Concórdia do Pará
+1324,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1325,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Benevides
+1326,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1327,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1328,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1329,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1330,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1331,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1332,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1333,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1334,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1335,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1336,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1337,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1338,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1339,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1340,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1341,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1342,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1343,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Moju
+1344,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+1345,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1346,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Santa Isabel do Pará
+1347,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Marituba
+1348,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Benevides
+1349,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1350,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Curuçá
+1351,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1352,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1353,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1354,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1355,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1356,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1357,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1358,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1359,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1360,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1361,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Moju
+1362,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1363,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1364,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1365,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1366,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Maria do Pará
+1367,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1368,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1369,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Vigia
+1370,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1371,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Marituba
+1372,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1373,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1374,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+1375,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Benevides
+1376,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Moju
+1377,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1378,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1379,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Benevides
+1380,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Acará
+1381,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1382,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1383,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1384,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Acará
+1385,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Moju
+1386,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1387,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Benevides
+1388,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1389,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Benevides
+1390,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+1391,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1392,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Moju
+1393,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1394,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Belem
+1395,mathandrade658@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1396,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1397,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1398,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1399,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1400,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1401,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1402,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Moju
+1403,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1404,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1405,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1406,mathandrade658@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1407,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Benevides
+1408,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1409,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1410,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Acará
+1411,mathandrade658@gmail.com,"(5, 27.0]",Masculino,Acará
+1412,mathandrade658@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1413,mathandrade658@gmail.com,"(27.0, 49.0]",Feminino,Acará
+1414,mathandrade658@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1415,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+1416,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+1417,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1418,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1419,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Masculino,Marapanim
+1420,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Marapanim
+1421,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Cametá
+1422,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1423,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Cametá
+1424,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Cametá
+1425,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Masculino,Cametá
+1426,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1427,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1428,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Marapanim
+1429,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1430,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1431,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1432,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1433,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1434,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Tucuruí
+1435,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Viseu
+1436,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1437,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1438,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Barcarena
+1439,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1440,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Outros,Belem
+1441,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1442,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1443,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Santarém
+1444,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1445,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Masculino,Belem
+1446,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1447,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1448,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1449,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1450,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belterra
+1451,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1452,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1453,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1454,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1455,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1456,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1457,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1458,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1459,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Abaetetuba
+1460,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1461,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1462,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1463,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1464,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1465,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1466,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1467,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1468,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1469,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Bujaru
+1470,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Mocajuba
+1471,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1472,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1473,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1474,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,maranhao
+1475,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1476,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1477,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Acará
+1478,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Masculino,Belem
+1479,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1480,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Abel Figueiredo
+1481,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1482,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Santo Antônio do Tauá
+1483,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1484,giovanniborjaeduardo@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1485,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1486,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1487,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Feminino,Belem
+1488,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1489,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1490,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1491,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1492,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+1493,giovanniborjaeduardo@gmail.com,"(5, 27.0]",Masculino,Bragança
+1494,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+1495,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1496,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1497,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1498,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1499,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1500,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1501,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1502,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1503,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1504,giovanniborjaeduardo@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1505,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Masculino,Bujaru
+1506,giovanniborjaeduardo@gmail.com,"(27.0, 49.0]",Feminino,Bujaru
+1507,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1508,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1509,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1510,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1511,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1512,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Belem
+1513,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1514,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1515,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1516,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1517,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1518,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1519,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1520,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1521,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1522,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1523,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1524,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1525,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1526,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1527,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1528,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1529,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1530,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1531,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1532,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1533,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1534,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1535,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1536,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1537,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,São João de Pirabas
+1538,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1539,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1540,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1541,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1542,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Belem
+1543,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1544,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1545,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1546,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1547,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1548,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1549,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1550,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1551,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1552,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1553,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1554,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1555,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1556,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1557,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1558,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1559,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1560,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,São Domingos do Capim
+1561,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1562,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1563,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1564,mateus.ro108@gmail.com,"(71.0, 93.0]",Masculino,Ananindeua
+1565,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1566,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1567,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1568,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1569,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1570,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Paragominas
+1571,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Marituba
+1572,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Paragominas
+1573,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1574,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Bragança
+1575,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Paragominas
+1576,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1577,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1578,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1579,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1580,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1581,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1582,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1583,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,maranhao
+1584,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Belem
+1585,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1586,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1587,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1588,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1589,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1590,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1591,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1592,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1593,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1594,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Belem
+1595,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1596,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Belem
+1597,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1598,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1599,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1600,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Belem
+1601,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Belem
+1602,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Belem
+1603,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Benevides
+1604,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Benevides
+1605,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1606,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1607,mateus.ro108@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1608,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1609,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1610,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1611,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Marituba
+1612,mateus.ro108@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1613,mateus.ro108@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1614,mateus.ro108@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1615,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1616,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Moju
+1617,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Moju
+1618,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Marituba
+1619,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1620,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1621,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1622,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1623,mateus.ro108@gmail.com,"(5, 27.0]",Masculino,Moju
+1624,mateus.ro108@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1625,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Bragança
+1626,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Almeirim
+1627,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1628,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1629,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1630,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1631,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1632,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1633,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Benevides
+1634,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1635,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Capanema
+1636,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1637,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Belem
+1638,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1639,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1640,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1641,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1642,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1643,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Marituba
+1644,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1645,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1646,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1647,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1648,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1649,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1650,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1651,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1652,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1653,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1654,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1655,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1656,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1657,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1658,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1659,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1660,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1661,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1662,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1663,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1664,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1665,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1666,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1667,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1668,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1669,rellanmonteiro30@gmail.com,"(71.0, 93.0]",Masculino,Belem
+1670,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1671,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1672,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1673,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1674,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1675,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1676,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1677,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Paragominas
+1678,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1679,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1680,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1681,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1682,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1683,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1684,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1685,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1686,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1687,rellanmonteiro30@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1688,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Santa Isabel do Pará
+1689,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1690,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1691,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Novo Repartimento
+1692,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1693,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1694,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1695,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Belem
+1696,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1697,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1698,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1699,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1700,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1701,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1702,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1703,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1704,rellanmonteiro30@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1705,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1706,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Belem
+1707,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Benevides
+1708,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Benevides
+1709,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Belem
+1710,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1711,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1712,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1713,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Belem
+1714,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1715,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Moju
+1716,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1717,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1718,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1719,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Benevides
+1720,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1721,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Benevides
+1722,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Benevides
+1723,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Benevides
+1724,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Moju
+1725,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1726,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1727,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1728,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1729,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1730,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1731,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Moju
+1732,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1733,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1734,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Bárbara do Pará
+1735,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Moju
+1736,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Acará
+1737,rellanmonteiro30@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1738,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Benevides
+1739,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1740,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1741,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1742,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Belem
+1743,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Masculino,Moju
+1744,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Moju
+1745,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1746,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1747,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1748,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Belem
+1749,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Moju
+1750,rellanmonteiro30@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1751,rellanmonteiro30@gmail.com,"(49.0, 71.0]",Masculino,Moju
+1752,rellanmonteiro30@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1753,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Tailândia
+1754,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Tailândia
+1755,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1756,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1757,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1758,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1759,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1760,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1761,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1762,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1763,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Colares
+1764,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Colares
+1765,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1766,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Santarém
+1767,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Ananindeua
+1768,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,São João de Pirabas
+1769,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Igarapé-Açu
+1770,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Igarapé-Açu
+1771,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Benevides
+1772,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1773,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Belem
+1774,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Belem
+1775,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1776,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santa Bárbara do Pará
+1777,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1778,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1779,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+1780,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1781,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1782,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1783,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1784,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santa Isabel do Pará
+1785,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+1786,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Bujaru
+1787,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Bujaru
+1788,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Bujaru
+1789,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1790,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1791,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Castanhal
+1792,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1793,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1794,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1795,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Maracanã
+1796,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1797,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1798,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1799,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1800,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1801,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Maracanã
+1802,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Santo Antônio do Tauá
+1803,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1804,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+1805,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1806,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Santa Bárbara do Pará
+1807,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1808,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Maracanã
+1809,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+1810,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1811,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Ipixuna do Pará
+1812,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Castanhal
+1813,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1814,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1815,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Maracanã
+1816,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Castanhal
+1817,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1818,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1819,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1820,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+1821,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Vigia
+1822,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Vigia
+1823,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Soure
+1824,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1825,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Belem
+1826,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1827,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Castanhal
+1828,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Ananindeua
+1829,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Santo Antônio do Tauá
+1830,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1831,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1832,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1833,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1834,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Ananindeua
+1835,bryan993@outlook.com.br,"(71.0, 93.0]",Masculino,Belem
+1836,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1837,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Santo Antônio do Tauá
+1838,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Belem
+1839,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1840,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Belem
+1841,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Marituba
+1842,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Ananindeua
+1843,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1844,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1845,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Moju
+1846,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1847,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Ananindeua
+1848,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Belem
+1849,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Ananindeua
+1850,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Castanhal
+1851,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1852,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1853,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Acará
+1854,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1855,bryan993@outlook.com.br,"(49.0, 71.0]",Masculino,Castanhal
+1856,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1857,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Ananindeua
+1858,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Ananindeua
+1859,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Ananindeua
+1860,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1861,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Belem
+1862,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1863,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1864,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1865,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1866,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1867,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1868,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Ananindeua
+1869,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1870,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1871,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Belem
+1872,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Castanhal
+1873,bryan993@outlook.com.br,"(27.0, 49.0]",Feminino,Belem
+1874,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Belem
+1875,bryan993@outlook.com.br,"(27.0, 49.0]",Masculino,Belem
+1876,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1877,bryan993@outlook.com.br,"(49.0, 71.0]",Feminino,Belem
+1878,bryan993@outlook.com.br,"(5, 27.0]",Feminino,Castanhal
+1879,bryan993@outlook.com.br,"(5, 27.0]",Masculino,Castanhal
+1880,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Santa Isabel do Pará
+1881,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Santa Isabel do Pará
+1882,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1883,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1884,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1885,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1886,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1887,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1888,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1889,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1890,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Belem
+1891,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1892,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1893,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1894,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1895,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1896,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1897,f.santosdemoura0703@gmail.com,"(71.0, 93.0]",Feminino,Ananindeua
+1898,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1899,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1900,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1901,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1902,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1903,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1904,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Benevides
+1905,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Benevides
+1906,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1907,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1908,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Belem
+1909,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1910,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+1911,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1912,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1913,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1914,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1915,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1916,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1917,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Santa Bárbara do Pará
+1918,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Capitão Poço
+1919,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Santa Bárbara do Pará
+1920,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1921,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1922,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1923,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1924,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1925,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1926,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1927,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1928,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1929,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1930,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1931,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1932,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1933,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1934,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Castanhal
+1935,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1936,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1937,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Castanhal
+1938,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1939,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Castanhal
+1940,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1941,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Paragominas
+1942,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1943,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1944,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Marituba
+1945,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1946,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1947,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1948,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1949,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1950,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Castanhal
+1951,f.santosdemoura0703@gmail.com,"(71.0, 93.0]",Feminino,Belem
+1952,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1953,f.santosdemoura0703@gmail.com,"(71.0, 93.0]",Feminino,Ananindeua
+1954,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1955,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1956,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Belem
+1957,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Tucuruí
+1958,f.santosdemoura0703@gmail.com,"(71.0, 93.0]",Feminino,Cametá
+1959,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,maranhao
+1960,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Belem
+1961,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,maranhao
+1962,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Belem
+1963,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+1964,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1965,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Bragança
+1966,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1967,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1968,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Belem
+1969,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Belem
+1970,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Belem
+1971,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Cametá
+1972,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1973,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1974,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Belem
+1975,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1976,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1977,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1978,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1979,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1980,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1981,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+1982,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1983,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+1984,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+1985,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1986,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1987,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1988,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1989,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Castanhal
+1990,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1991,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+1992,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Belem
+1993,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+1994,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+1995,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1996,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+1997,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+1998,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Belem
+1999,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Belem
+2000,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Belem
+2001,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+2002,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+2003,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+2004,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+2005,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+2006,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+2007,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Marituba
+2008,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Marituba
+2009,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Marituba
+2010,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+2011,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+2012,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Ananindeua
+2013,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Ananindeua
+2014,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Ananindeua
+2015,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Benevides
+2016,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+2017,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+2018,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Ananindeua
+2019,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+2020,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Santa Isabel do Pará
+2021,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Santa Isabel do Pará
+2022,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Benevides
+2023,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Benevides
+2024,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Castanhal
+2025,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Castanhal
+2026,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Santa Isabel do Pará
+2027,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Feminino,Ananindeua
+2028,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Benevides
+2029,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+2030,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Ananindeua
+2031,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Moju
+2032,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Moju
+2033,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Masculino,Benevides
+2034,f.santosdemoura0703@gmail.com,"(49.0, 71.0]",Masculino,Benevides
+2035,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Moju
+2036,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Benevides
+2037,f.santosdemoura0703@gmail.com,"(5, 27.0]",Masculino,Moju
+2038,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Santa Luzia do Pará
+2039,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Santa Isabel do Pará
+2040,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Moju
+2041,f.santosdemoura0703@gmail.com,"(5, 27.0]",Feminino,Moju
+2042,f.santosdemoura0703@gmail.com,"(27.0, 49.0]",Feminino,Moju
