@@ -4,19 +4,37 @@
 
 ## Link para o Dashboard
 
-Download [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix).
+Acesse o [Dashboard de Análise aqui](./DASHBOARD_POWER_BI/DASHBOARD.pbix).
 
 ## Guia para o Dashboard de Análise
 
 Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
 1. **Abra o Power BI Desktop:**
-
    - Baixe gratuitamente o [Power BI Desktop](https://powerbi.microsoft.com/) e instale-o em seu computador, se ainda não o tiver.
 
 2. **Baixe o Arquivo DASHBOARD.pbix:**
    - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
-     - [Downlaoad Dashboard de Análise](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix)
+
+3.**Atualize a Fonte dos dados:**
+   - Para obter a versão mais recente do dashboard, na parte de cima da tela em "Página inicial", clique em "Transformar dados".
+
+   - Após isso, uma janela chamada "Editor do Power Query" abrirá informando um erro. (Ignore-o)
+
+   - Em seguida, clique em Consultas na parte esquerda da janela, e então em dataFolderPath.
+
+   - Copie o caminho absoluto da pasta "Analise_De_Dados"
+      - Para conseguir ele:
+
+   ![img]( /Analise_De_Dados//images_readme/ClicarEmPasta.png )
+
+   ![img]( /Analise_De_Dados//images_readme/Caminho_absoluto.png )
+
+   - Dentro do retângulo branco com o texto "Pasta Raiz/Análise de dados" coloque o caminho "absoluto" para a pasta "Analise_De_Dados"
+
+   ![img]( /Analise_De_Dados//images_readme/ColarOCaminho.png )
+
+   - Após isso, aperte Enter e feche a janela.
 
 ## Conteúdo do Dashboard
 
@@ -41,12 +59,3 @@ Para acessar a próxima página, basta clicar na aba na parte inferior da tela d
   - Cidade de origem
   - Quantidade por intervalo de idade
   - Estatísticas sobre essa distribuição, como média, mediana, desvio padrão, máximo e mínimo.
-
-## Orientador
-
-- [@Erminio Augusto Ramos da Paixao](http://lattes.cnpq.br/3441462516404507)
-
-## Colaboradores Universitarios
-
-- [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
-- [@Marco Antonio](https://github.com/marco0antonio0)
