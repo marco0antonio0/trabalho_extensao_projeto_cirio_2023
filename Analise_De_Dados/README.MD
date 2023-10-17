@@ -1,6 +1,6 @@
 # Analise em Power BI e Python
 
-![img](\images_readme\image_readme.png)
+![img](/Analise_De_Dados//images_readme/image_readme.png)
 
 ## Link para o Dashboard
 
