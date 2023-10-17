@@ -1,33 +1,37 @@
-## Guia para o Dashboard de Análise no Power BI
+## Link para o Dashboard
 
-Para abrir o Dashboard de Análise no Power BI, siga os passos abaixo:
+Acesse o [Dashboard de Análise aqui](./DASHBOARD_POWER_BI/DASHBOARD.pbix).
+
+## Guia para o Dashboard de Análise
+
+Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
 1. **Abra o Power BI Desktop:**
-   - Certifique-se de que o Power BI Desktop está instalado no seu computador. Se não estiver instalado, você pode baixá-lo gratuitamente no [site oficial do Power BI](https://powerbi.microsoft.com/).
+   - Baixe gratuitamente o [Power BI Desktop](https://powerbi.microsoft.com/) e instale-o em seu computador, se ainda não o tiver.
 
-2. **Baixe o Arquivo Analise.pbix:**
-   - Baixe o arquivo através do repositório na pasta "Analise_De_Dados" e abra em seu computador.
+2. **Baixe o Arquivo DASHBOARD.pbix:**
+   - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
 
-## No Dashboard
+## Conteúdo do Dashboard
 
-### 1ª Página:
+### Página 1:
 
-- A primeira página do dashboard contém informações relevantes a respeito da distribuição de gênero, em tópicos como:
+- A primeira página do dashboard apresenta informações sobre a distribuição de gênero, incluindo:
   - Cidade
-  - Usuários por dia
+  - Quantidade de Usuários por dia
   - Distribuição por Registradores
 
-*Para ir para a próxima página, basta clicar na próxima aba na parte inferior da tela do aplicativo.
+Para acessar a próxima página, basta clicar na aba na parte inferior da tela do aplicativo.
 
-### 2ª Página:
+### Página 2:
 
-- A segunda página do dashboard contém um mapa que mostra as localizações das cidades de origem dos romeiros.
-- A partir delas, um cálculo de distância utilizando a leis dos cossenos foi feito, para então saber a distância entre as cidades de origem e o posto de atendimento.
-- A tabela mostra a distância em quilômetros de cada cidade em relação ao posto de atendimento.
+- A segunda página do dashboard inclui um mapa que mostra as localizações das cidades de origem dos romeiros.
+- A distância entre as cidades de origem e o posto de atendimento foi calculada usando a lei dos cossenos.
+- A tabela exibe a distância em quilômetros (KM) de cada cidade em relação ao posto de atendimento.
 
-### 3ª Página:
+### Página 3:
 
-- A terceira página contém informações relevantes sobre o comportamento dos intervalos de idade, em tópicos como:
+- A terceira página contém informações sobre os intervalos de idade dos romeiros, incluindo:
   - Cidade de origem
   - Quantidade por intervalo de idade
-  - Informações estatísticas dessa distribuição (Média, Mediana, Desvio Padrão, Máximo e Mínimo)
+  - Estatísticas sobre essa distribuição, como média, mediana, desvio padrão, máximo e mínimo.
