@@ -4,7 +4,7 @@
 
 ## Link para o Dashboard
 
-Acesse o [Dashboard de Análise aqui](https://github.com/JeanArthurCostaDias/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix).
+Acesse o [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix).
 
 ## Guia para o Dashboard de Análise
 
