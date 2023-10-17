@@ -59,3 +59,13 @@ Para acessar a próxima página, basta clicar na aba na parte inferior da tela d
   - Cidade de origem
   - Quantidade por intervalo de idade
   - Estatísticas sobre essa distribuição, como média, mediana, desvio padrão, máximo e mínimo.
+
+
+## Orientador
+
+- [@Erminio Augusto Ramos da Paixao](http://lattes.cnpq.br/3441462516404507)
+
+## Colaboradores Universitarios
+
+- [@Jean Arthur Costa Dias](https://github.com/JeanArthurCostaDias)
+- [@Marco Antonio](https://github.com/marco0antonio0)
