@@ -22,7 +22,7 @@ Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
    - **Passo 2**: Após isso, uma janela chamada "Editor do Power Query" abrirá informando um erro. (Ignore-o)
 
-   - **Passo 3**: Em seguida, clique em Consultas na parte esquerda da janela, e então clique em **DataFolderPath**.
+   - **Passo 3**: Em seguida, clique em Consultas na parte esquerda da janela, e então clique em **dataFolderPath**.
 
    - **Passo 4**: Copie o caminho absoluto da pasta "Analise_De_Dados"
       - **Passo 4.1**: Para conseguir ele:
