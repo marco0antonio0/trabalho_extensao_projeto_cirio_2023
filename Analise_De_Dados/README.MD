@@ -4,19 +4,39 @@
 
 ## Link para o Dashboard
 
-Download [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix).
+Acesse o [Dashboard de Análise aqui](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.zip).
 
 ## Guia para o Dashboard de Análise
 
 Para abrir o Dashboard de Análise no Power BI, siga estas etapas:
 
-1. **Abra o Power BI Desktop:**
-
+1. **Abra o Power BI Desktop :**
    - Baixe gratuitamente o [Power BI Desktop](https://powerbi.microsoft.com/) e instale-o em seu computador, se ainda não o tiver.
 
-2. **Baixe o Arquivo DASHBOARD.pbix:**
-   - Faça o download do arquivo "DASHBOARD.pbix" na pasta "DASHBOARD POWER BI" do repositório e abra-o em seu computador.
-     - [Downlaoad Dashboard de Análise](https://github.com/marco0antonio0/trabalho_extensao_projeto_cirio_2023/raw/main/Analise_De_Dados/DASHBOARD_POWER_BI/DASHBOARD.pbix)
+2. **Baixe o Arquivo DASHBOARD.zip:**
+   - Faça o download do arquivo "DASHBOARD.zip" na pasta "DASHBOARD POWER BI" do repositório e extraia o arquivo.
+   - Após isso, abra a pasta e execute o arquivo "DASHBOARD.pbix".
+
+3. **Atualize a Fonte dos dados:**
+
+   - **Passo 1**: Para obter a versão mais recente do dashboard, na parte de cima da tela em "Página inicial", clique em "Transformar dados".
+
+   - **Passo 2**: Após isso, uma janela chamada "Editor do Power Query" abrirá informando um erro. (Ignore-o)
+
+   - **Passo 3**: Em seguida, clique em Consultas na parte esquerda da janela, e então clique em **dataFolderPath**.
+
+   - **Passo 4**: Copie o caminho absoluto da pasta "Analise_De_Dados"
+      - **Passo 4.1**: Para conseguir ele:
+
+   ![img]( /Analise_De_Dados//images_readme/ClicarEmPasta.png )
+
+   ![img]( /Analise_De_Dados//images_readme/Caminho_absoluto.png )
+
+   - **Passo 5**: Dentro do retângulo branco com o texto "Pasta Raiz/Análise de dados" coloque o caminho "absoluto" para a pasta "Analise_De_Dados"
+
+   ![img]( /Analise_De_Dados//images_readme/ColarOCaminho.png )
+
+   - **Passo 6**: Por fim, aperte Enter e **feche a janela pelo X no canto superior direito da tela**.
 
 ## Conteúdo do Dashboard
 
@@ -41,6 +61,7 @@ Para acessar a próxima página, basta clicar na aba na parte inferior da tela d
   - Cidade de origem
   - Quantidade por intervalo de idade
   - Estatísticas sobre essa distribuição, como média, mediana, desvio padrão, máximo e mínimo.
+
 
 ## Orientador
 
